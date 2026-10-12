@@ -1,0 +1,17 @@
+# dependências e build
+node_modules/
+dist/
+.vercel/
+
+# variáveis de ambiente (NUNCA versionar chaves)
+.env
+.env.local
+.env.*.local
+
+# sistema / editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/*
+!.vscode/extensions.json
+

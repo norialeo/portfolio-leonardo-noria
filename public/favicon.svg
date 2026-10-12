@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#0a0c0b"/>
+  <g fill="none" stroke="#c8ff3d" stroke-width="5" stroke-linecap="square">
+    <path d="M6 20V6h14M44 6h14v14M58 44v14H44M20 58H6V44"/>
+  </g>
+  <text x="32" y="41" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="22" fill="#c8ff3d" letter-spacing="-1">LN</text>
+</svg>
