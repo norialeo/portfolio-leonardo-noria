@@ -1,5 +1,3 @@
----
-
 # 🎥 Portfólio Profissional — Leonardo Noria 👨‍💻
 
 > [!NOTE]
