@@ -71,7 +71,7 @@
 * 🌐 **Site publicado:** [leonardonoria.vercel.app](https://leonardonoria.vercel.app)
   > 💻 Hospedado gratuitamente na **Vercel** (front-end estático na CDN + funções serverless em `/api`).
 * :octocat: **Repositório:** [github.com/norialeo/portfolio-leonardo-noria](https://github.com/norialeo/portfolio-leonardo-noria)
-* 🎨 **Wireframes (Figma / SVG):** [`docs/wireframes`](docs/wireframes) — arquivos SVG vetoriais; arraste para o Figma para editar.
+* 🎨 **Wireframes no Figma:** [Portfólio — Wireframes (Lab01)](https://www.figma.com/design/IjbiXz9JQfUiI8u1G264cK/Portf%C3%B3lio-%E2%80%94-Wireframes--Lab01-) · cópia em SVG em [`docs/wireframes`](docs/wireframes)
 * 📄 **Currículo:** [PT](public/cv/curriculo-leonardo-noria-pt.pdf) · [EN](public/cv/resume-leonardo-noria-en.pdf)
 
 ---
@@ -160,7 +160,7 @@
 
 ## 🎨 Protótipos (Wireframes)
 
-Wireframes de **média fidelidade** feitos antes da implementação. Estão em [`docs/wireframes`](docs/wireframes) como **SVG vetorial** — para abrir no Figma, basta arrastar o arquivo para dentro de um arquivo do Figma (vira camadas editáveis).
+Wireframes de **média fidelidade** feitos antes da implementação, no **[Figma](https://www.figma.com/design/IjbiXz9JQfUiI8u1G264cK/Portf%C3%B3lio-%E2%80%94-Wireframes--Lab01-)**. Uma cópia em **SVG vetorial** fica em [`docs/wireframes`](docs/wireframes).
 
 | Mapa de navegação | Home |
 | :---: | :---: |
@@ -477,7 +477,7 @@ A **CI** (`.github/workflows/ci.yml`) roda lint, tipos, testes e build em cada p
 
 ### ✅ Lab01S01 — Planejamento e prototipação
 - [x] Repositório GitHub com README
-- [x] Wireframes de média fidelidade das páginas ([`docs/wireframes`](docs/wireframes), importáveis no Figma)
+- [x] Wireframes de média fidelidade das páginas no [Figma](https://www.figma.com/design/IjbiXz9JQfUiI8u1G264cK/Portf%C3%B3lio-%E2%80%94-Wireframes--Lab01-) (cópia em [`docs/wireframes`](docs/wireframes))
 - [x] Protótipo do front-end em React + TypeScript
 - [x] Navegação (React Router: páginas e links entre seções) e layout principal (cabeçalho, rodapé e área de conteúdo)
 
