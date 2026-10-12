@@ -26,7 +26,7 @@ export const profile = {
 
   photo: "/images/leonardo.webp",
   repoUrl: "https://github.com/norialeo/portfolio-leonardo-noria",
-  siteUrl: "https://portfolio-leonardo-noria.vercel.app",
+  siteUrl: "https://leonardonoria.vercel.app",
 
   cv: {
     pt: "/cv/curriculo-leonardo-noria-pt.pdf",

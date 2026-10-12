@@ -68,7 +68,7 @@
 ---
 
 ## 🔗 Links Úteis
-* 🌐 **Site publicado:** [portfolio-leonardo-noria.vercel.app](https://portfolio-leonardo-noria.vercel.app)
+* 🌐 **Site publicado:** [leonardonoria.vercel.app](https://leonardonoria.vercel.app)
   > 💻 Hospedado gratuitamente na **Vercel** (front-end estático na CDN + funções serverless em `/api`).
 * :octocat: **Repositório:** [github.com/norialeo/portfolio-leonardo-noria](https://github.com/norialeo/portfolio-leonardo-noria)
 * 🎨 **Wireframes (Figma / SVG):** [`docs/wireframes`](docs/wireframes) — arquivos SVG vetoriais; arraste para o Figma para editar.
