@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<defs></defs>
+<style>
+text{white-space:pre}
+.mono{font-family:Consolas, 'Cascadia Mono', 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace}
+.sans{font-family:'Segoe UI', 'Helvetica Neue', Arial, sans-serif}
+@keyframes v0{0%,2%{opacity:0}3.2%,12.8%{opacity:1}14%,100%{opacity:0}}
+@keyframes v1{0%,24%{opacity:0}25.2%,34.8%{opacity:1}36%,100%{opacity:0}}
+@keyframes v2{0%,50%{opacity:0}51.2%,62.8%{opacity:1}64%,100%{opacity:0}}
+@keyframes v3{0%,100%{opacity:0}100%,6.8%{opacity:1}8%,100%{opacity:0}}
+@keyframes v4{0%,100%{opacity:1}100%,100%{opacity:0}}
+@keyframes v5{0%,100%{opacity:0}100%,1.9%{opacity:1}2%,100%{opacity:0}}
+@keyframes v6{0%,2%{opacity:0}2.1%,100%{opacity:1}}
+@keyframes v7{0%,14%{opacity:0}15.2%,100%{opacity:1}}
+@keyframes v8{0%,100%{opacity:0}100%,28.8%{opacity:1}30%,100%{opacity:0}}
+@keyframes v9{0%,100%{opacity:1}100%,100%{opacity:0}}
+@keyframes v10{0%,100%{opacity:0}100%,23.9%{opacity:1}24%,100%{opacity:0}}
+@keyframes v11{0%,24%{opacity:0}24.1%,100%{opacity:1}}
+@keyframes v12{0%,36%{opacity:0}37.2%,100%{opacity:1}}
+@keyframes v13{0%,39%{opacity:0}40.2%,100%{opacity:1}}
+@keyframes v14{0%,39%{opacity:0}40.2%,100%{opacity:1}}
+@keyframes v15{0%,46%{opacity:0}47.2%,100%{opacity:1}}
+@keyframes v16{0%,46%{opacity:0}47.2%,100%{opacity:1}}
+@keyframes v17{0%,100%{opacity:0}100%,54.8%{opacity:1}56%,100%{opacity:0}}
+@keyframes v18{0%,100%{opacity:1}100%,100%{opacity:0}}
+@keyframes v19{0%,100%{opacity:0}100%,49.9%{opacity:1}50%,100%{opacity:0}}
+@keyframes v20{0%,50%{opacity:0}50.1%,100%{opacity:1}}
+@keyframes v21{0%,64%{opacity:0}65.2%,100%{opacity:1}}
+</style>
+<rect width="800" height="500" fill="#ffffff"/>
+  <g class="sans"><rect width="800" height="44" fill="#f5f5f5"/><rect y="44" width="800" height="1" fill="#e0e0e0"/>
+  <text x="18" y="27" font-size="14" font-weight="600" fill="#212121">main.ipynb</text>
+  <text x="700" y="27" font-size="11" fill="#616161">Python 3</text>
+  <circle cx="770" cy="23" r="6" fill="none" stroke="#616161" stroke-width="1.5"/>
+  <circle cx="770" cy="23" r="6" fill="#616161" style="opacity:0;animation:v0 10s linear infinite"/>
+  <circle cx="770" cy="23" r="6" fill="#616161" style="opacity:0;animation:v1 10s linear infinite"/>
+  <circle cx="770" cy="23" r="6" fill="#616161" style="opacity:0;animation:v2 10s linear infinite"/></g><g class="mono" font-size="11.5">
+    <rect x="96" y="64" width="684" height="104" fill="#f7f7f7" stroke="#e0e0e0"/>
+    <rect x="94" y="64" width="3" height="104" fill="#1976d2" style="opacity:0;animation:v3 10s linear infinite"/>
+    <text x="20" y="82" fill="#303f9f" style="opacity:0;animation:v4 10s linear infinite">[ ]:</text>
+    <text x="20" y="82" fill="#303f9f" style="opacity:0;animation:v5 10s linear infinite">[*]:</text>
+    <text x="20" y="82" fill="#303f9f" style="opacity:0;animation:v6 10s linear infinite">[11]:</text><text x="108" y="82"><tspan fill="#008000" font-weight="700">from</tspan><tspan fill="#212121"> sklearn.ensemble </tspan><tspan fill="#008000" font-weight="700">import</tspan><tspan fill="#212121"> RandomForestClassifier</tspan></text><text x="108" y="98"><tspan fill="#008000" font-weight="700">from</tspan><tspan fill="#212121"> sklearn.neighbors </tspan><tspan fill="#008000" font-weight="700">import</tspan><tspan fill="#212121"> KNeighborsClassifier</tspan></text><text x="108" y="114"><tspan fill="#212121">modelo_arvoredecisao = RandomForestClassifier()</tspan></text><text x="108" y="130"><tspan fill="#212121">modelo_knn = KNeighborsClassifier()</tspan></text><text x="108" y="146"><tspan fill="#408080" font-style="italic"># Treinar as IAs</tspan></text><text x="108" y="162"><tspan fill="#212121">modelo_arvoredecisao.fit(x_treino, y_treino); modelo_knn.fit(x_treino, y_treino)</tspan></text></g><g class="mono" font-size="11.5" style="opacity:0;animation:v7 10s linear infinite"><text x="20" y="190" fill="#d84315">Out[11]:</text><text x="108" y="190" fill="#212121">KNeighborsClassifier()</text></g><g class="mono" font-size="11.5">
+    <rect x="96" y="206" width="684" height="88" fill="#f7f7f7" stroke="#e0e0e0"/>
+    <rect x="94" y="206" width="3" height="88" fill="#1976d2" style="opacity:0;animation:v8 10s linear infinite"/>
+    <text x="20" y="224" fill="#303f9f" style="opacity:0;animation:v9 10s linear infinite">[ ]:</text>
+    <text x="20" y="224" fill="#303f9f" style="opacity:0;animation:v10 10s linear infinite">[*]:</text>
+    <text x="20" y="224" fill="#303f9f" style="opacity:0;animation:v11 10s linear infinite">[12]:</text><text x="108" y="224"><tspan fill="#212121">previsao_arvoredecisao = modelo_arvoredecisao.predict(x_teste)</tspan></text><text x="108" y="240"><tspan fill="#212121">previsao_knn = modelo_knn.predict(x_teste)</tspan></text><text x="108" y="256"><tspan fill="#008000" font-weight="700">from</tspan><tspan fill="#212121"> sklearn.metrics </tspan><tspan fill="#008000" font-weight="700">import</tspan><tspan fill="#212121"> accuracy_score</tspan></text><text x="108" y="272"><tspan fill="#212121">display(accuracy_score(y_teste, previsao_arvoredecisao))</tspan></text><text x="108" y="288"><tspan fill="#212121">display(accuracy_score(y_teste, previsao_knn))</tspan></text></g><g class="mono" font-size="12.5" style="opacity:0;animation:v12 10s linear infinite">
+    <text x="108" y="318" fill="#212121">0.8245</text>
+    <text x="108" y="338" fill="#212121">0.7335666666666667</text></g>
+    <g class="sans" style="opacity:0;animation:v13 10s linear infinite">
+    <text x="300" y="317" font-size="10.5" fill="#616161">Random Forest</text>
+    <rect x="390" y="308" width="0" height="11" fill="#1976d2" style="opacity:0;animation:v14 10s linear infinite"><animate attributeName="width" values="0;0;330;330" keyTimes="0;0.39;0.47;1" dur="10s" repeatCount="indefinite"/></rect>
+    <text x="300" y="337" font-size="10.5" fill="#616161">KNN</text>
+    <rect x="390" y="328" width="0" height="11" fill="#90a4ae"><animate attributeName="width" values="0;0;294;294" keyTimes="0;0.39;0.47;1" dur="10s" repeatCount="indefinite"/></rect>
+    <text x="728" y="317" font-size="10.5" font-weight="700" fill="#1976d2" style="opacity:0;animation:v15 10s linear infinite">82,4%</text>
+    <text x="692" y="337" font-size="10.5" fill="#607d8b" style="opacity:0;animation:v16 10s linear infinite">73,4%</text></g><g class="mono" font-size="11.5">
+    <rect x="96" y="362" width="684" height="72" fill="#f7f7f7" stroke="#e0e0e0"/>
+    <rect x="94" y="362" width="3" height="72" fill="#1976d2" style="opacity:0;animation:v17 10s linear infinite"/>
+    <text x="20" y="380" fill="#303f9f" style="opacity:0;animation:v18 10s linear infinite">[ ]:</text>
+    <text x="20" y="380" fill="#303f9f" style="opacity:0;animation:v19 10s linear infinite">[*]:</text>
+    <text x="20" y="380" fill="#303f9f" style="opacity:0;animation:v20 10s linear infinite">[14]:</text><text x="108" y="380"><tspan fill="#212121">tabela_novosclientes = pd.read_csv(</tspan><tspan fill="#ba2121">"novos_clientes.csv"</tspan><tspan fill="#212121">)</tspan></text><text x="108" y="396"><tspan fill="#408080" font-style="italic"># ...mesmos encoders do treino</tspan></text><text x="108" y="412"><tspan fill="#212121">nova_previsao = modelo_arvoredecisao.predict(tabela_novosclientes)</tspan></text><text x="108" y="428"><tspan fill="#212121">display(nova_previsao)</tspan></text></g><g class="mono" font-size="12.5" style="opacity:0;animation:v21 10s linear infinite"><text x="108" y="458" fill="#212121">array(['Poor', 'Poor', 'Standard'], dtype=object)</text></g>
+</svg>

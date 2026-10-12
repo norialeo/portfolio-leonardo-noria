@@ -1,0 +1,165 @@
+.table {
+  display: grid;
+  border-top: 1px solid var(--line);
+}
+
+.row {
+  position: relative;
+  display: grid;
+  grid-template-columns: 120px minmax(220px, 1.4fr) 150px 190px minmax(0, 1.6fr) 24px;
+  align-items: center;
+  gap: 20px;
+  padding: 22px 16px;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.row:hover {
+  background: var(--bg-2);
+}
+
+.row::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--accent);
+  transform: scaleY(0);
+  transition: transform 0.3s var(--ease-out);
+}
+
+.row:hover::before {
+  transform: scaleY(1);
+}
+
+.status {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--ok);
+  font-size: 11px;
+}
+
+.dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--ok);
+  box-shadow: 0 0 8px var(--ok);
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  50% {
+    opacity: 0.4;
+  }
+}
+
+.company {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  line-height: 1.35;
+}
+
+.company strong {
+  font-size: 19px;
+  font-weight: 700;
+}
+
+.company span {
+  font-size: 14px;
+}
+
+.product {
+  color: var(--amber);
+}
+
+.uptime {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 11px;
+}
+
+.cellLabel {
+  color: var(--fg-3);
+}
+
+.ticker {
+  font-size: 14px;
+  color: var(--fg);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+}
+
+.since {
+  color: var(--fg-3);
+  text-transform: none;
+}
+
+.stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.chip {
+  padding: 3px 8px;
+  border: 1px solid var(--line-2);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--fg-2);
+}
+
+.arrow {
+  width: 20px;
+  height: 20px;
+  color: var(--fg-3);
+  transition:
+    color 0.2s,
+    transform 0.2s var(--ease-out);
+}
+
+.row:hover .arrow {
+  color: var(--accent);
+  transform: translate(2px, -2px);
+}
+
+@media (max-width: 1100px) {
+  .row {
+    grid-template-columns: 110px minmax(0, 1fr) 170px 24px;
+  }
+  .product,
+  .stack {
+    display: none;
+  }
+}
+
+@media (max-width: 640px) {
+  .row {
+    grid-template-columns: minmax(0, 1fr) 24px;
+    gap: 10px;
+    padding: 20px 4px;
+  }
+  .status {
+    grid-column: 1 / -1;
+  }
+  .company {
+    grid-column: 1;
+  }
+  .uptime {
+    grid-column: 1;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 4px 10px;
+    align-items: baseline;
+  }
+  .arrow {
+    grid-column: 2;
+    grid-row: 2;
+  }
+}

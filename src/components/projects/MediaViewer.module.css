@@ -1,0 +1,196 @@
+.viewer {
+  display: grid;
+  gap: 12px;
+  padding-top: 18px;
+}
+
+.frame {
+  border: 1px solid var(--line-2);
+  background: #070908;
+}
+
+.open {
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: zoom-in;
+  overflow: hidden;
+}
+
+.capture,
+.preview {
+  width: 100%;
+  height: 100%;
+}
+
+.capture {
+  object-fit: cover;
+  object-position: top center;
+  transition: transform 0.6s var(--ease-out);
+}
+
+.preview {
+  object-fit: contain;
+}
+
+.open:hover .capture {
+  transform: scale(1.03);
+}
+
+.zoom {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  background: rgba(10, 12, 11, 0.8);
+  border: 1px solid var(--line-2);
+  color: var(--fg);
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.zoom svg {
+  width: 14px;
+  height: 14px;
+}
+
+.open:hover .zoom,
+.open:focus-visible .zoom {
+  opacity: 1;
+}
+
+.kind {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  padding: 3px 7px;
+  background: rgba(10, 12, 11, 0.85);
+  border: 1px solid var(--line-2);
+  font-size: 10px;
+  color: var(--fg-2);
+  pointer-events: auto;
+}
+
+.kindPreview {
+  color: var(--amber);
+  border-color: rgba(255, 178, 36, 0.4);
+}
+
+.pager {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.pager > button {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border: 1px solid var(--line-2);
+  background: transparent;
+  color: var(--fg-2);
+}
+
+.pager > button:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.dots {
+  display: flex;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.dots button {
+  display: block;
+  width: 28px;
+  height: 24px;
+  padding: 0;
+  border: 0;
+  background: linear-gradient(var(--line-2), var(--line-2)) center / 100% 3px no-repeat;
+}
+
+.dots button[aria-current="true"] {
+  background-image: linear-gradient(var(--accent), var(--accent));
+}
+
+/* ---------- ampliação ---------- */
+
+.dialog {
+  width: min(1200px, calc(100vw - 32px));
+  max-height: calc(100dvh - 32px);
+  padding: 0;
+  border: 1px solid var(--line-2);
+  background: var(--bg);
+  color: var(--fg);
+}
+
+.dialog::backdrop {
+  background: rgba(5, 6, 6, 0.86);
+  backdrop-filter: blur(6px);
+}
+
+.dialogInner {
+  display: grid;
+  gap: 14px;
+  padding: 0 0 18px;
+}
+
+.dialogBar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 8px 8px 16px;
+  border-bottom: 1px solid var(--line);
+  background: var(--bg-2);
+  color: var(--fg-2);
+  font-size: 11px;
+}
+
+.dialogBar button {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid var(--line-2);
+  background: transparent;
+}
+
+.dialogBar button:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.dialogImg {
+  width: 100%;
+  max-height: 72dvh;
+  object-fit: contain;
+  background: #070908;
+}
+
+.dialogCaption {
+  padding: 0 18px;
+  font-size: 15px;
+}
+
+.dialogNav {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 0 18px;
+}

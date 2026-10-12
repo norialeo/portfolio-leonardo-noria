@@ -1,0 +1,5 @@
+.sections {
+  display: grid;
+  gap: clamp(72px, 10vw, 136px);
+  padding-top: clamp(24px, 4vw, 48px);
+}

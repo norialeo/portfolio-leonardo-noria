@@ -1,0 +1,378 @@
+/* ---------- legenda / filtro ---------- */
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px 20px;
+  padding-bottom: 28px;
+  margin-bottom: clamp(40px, 6vw, 64px);
+  border-bottom: 1px solid var(--line);
+}
+
+.legendLabel {
+  color: var(--fg-3);
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.tagBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 36px;
+  padding: 0 12px 0 6px;
+  border: 1px solid var(--line-2);
+  border-radius: var(--radius);
+  background: transparent;
+  font-size: 13.5px;
+  color: var(--fg-2);
+  transition:
+    border-color 0.2s,
+    background 0.2s,
+    color 0.2s;
+}
+
+.tagBtn:hover {
+  color: var(--fg);
+  border-color: var(--fg-2);
+}
+
+.tagBtn[aria-pressed="true"] {
+  border-color: var(--accent);
+  background: var(--accent-dim);
+  color: var(--fg);
+}
+
+.tagCode,
+.lineTag {
+  --tag: var(--accent);
+  display: inline-block;
+  min-width: 46px;
+  padding: 2px 6px;
+  border: 1px solid var(--tag);
+  color: var(--tag);
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-align: center;
+}
+
+[data-tag="FIX"] .tagCode,
+.lineTag[data-tag="FIX"] {
+  --tag: var(--rec);
+}
+[data-tag="SEC"] .tagCode,
+.lineTag[data-tag="SEC"] {
+  --tag: var(--amber);
+}
+[data-tag="OPS"] .tagCode,
+.lineTag[data-tag="OPS"],
+[data-tag="DATA"] .tagCode,
+.lineTag[data-tag="DATA"] {
+  --tag: #5ce1e6;
+}
+[data-tag="QA"] .tagCode,
+.lineTag[data-tag="QA"],
+[data-tag="A11Y"] .tagCode,
+.lineTag[data-tag="A11Y"] {
+  --tag: #b4a7ff;
+}
+
+/* ---------- vagas ---------- */
+
+.jobs {
+  display: grid;
+  gap: clamp(72px, 10vw, 128px);
+}
+
+.job {
+  display: grid;
+  grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  gap: clamp(28px, 4vw, 56px);
+  align-items: start;
+}
+
+.side {
+  position: sticky;
+  top: calc(var(--header-h) + 28px);
+  display: grid;
+  gap: 18px;
+  /* a coluna nunca passa da largura dela; o nome da empresa escala com ela */
+  min-width: 0;
+  container-type: inline-size;
+}
+
+.status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--ok);
+  font-size: 11px;
+}
+
+.dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--ok);
+  box-shadow: 0 0 8px var(--ok);
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  50% {
+    opacity: 0.4;
+  }
+}
+
+.num {
+  margin-left: auto;
+  color: var(--fg-3);
+}
+
+.company {
+  font-size: clamp(30px, 11cqi, 80px);
+  overflow-wrap: anywhere;
+}
+
+.role {
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.period {
+  color: var(--fg-2);
+  text-transform: none;
+  letter-spacing: 0.02em;
+  font-size: 12.5px;
+}
+
+.blockLabel {
+  color: var(--fg-3);
+  font-size: 10.5px;
+  margin-bottom: 8px;
+}
+
+.productName {
+  color: var(--amber);
+}
+
+.product {
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+
+.productText {
+  color: var(--fg-2);
+  font-size: 15.5px;
+  line-height: 1.65;
+}
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 0;
+  border: 1px solid var(--line);
+}
+
+.metrics > div {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  gap: 6px;
+  padding: 14px;
+  border-left: 1px solid var(--line);
+}
+
+.metrics > div:first-child {
+  border-left: 0;
+}
+
+.metrics dt {
+  color: var(--fg-3);
+  font-size: 10px;
+  line-height: 1.4;
+}
+
+.metrics dd {
+  margin: 0;
+  font-family: var(--font-display);
+  font-stretch: 120%;
+  font-weight: 800;
+  font-size: clamp(20px, 2.2vw, 28px);
+  line-height: 1;
+  color: var(--accent);
+  overflow-wrap: anywhere;
+}
+
+.stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.stack li {
+  padding: 3px 8px;
+  border: 1px solid var(--line-2);
+  font-family: var(--font-mono);
+  font-size: 11.5px;
+  color: var(--fg-2);
+}
+
+/* ---------- log de impacto ---------- */
+
+.log {
+  position: relative;
+  z-index: 1;
+  border: 1px solid var(--line);
+  background: #070908;
+  min-width: 0;
+}
+
+.logBar {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 12px 18px;
+  border-bottom: 1px solid var(--line);
+  color: var(--fg-3);
+  font-size: 11px;
+  text-transform: none;
+  letter-spacing: 0.02em;
+}
+
+.logBar span:first-child {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.logBar span:last-child {
+  flex: none;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.lines {
+  margin: 0;
+  padding: 6px 0;
+  list-style: none;
+}
+
+.line {
+  display: grid;
+  grid-template-columns: 58px minmax(0, 1fr);
+  gap: 16px;
+  padding: 18px;
+  border-bottom: 1px dashed var(--line);
+}
+
+.line:last-child {
+  border-bottom: 0;
+}
+
+.lineTag {
+  margin-top: 3px;
+  align-self: start;
+}
+
+.lineTitle {
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: 6px;
+}
+
+.lineText {
+  color: var(--fg-2);
+  font-size: 15.5px;
+  line-height: 1.65;
+}
+
+.empty {
+  padding: 18px;
+  color: var(--fg-3);
+  text-transform: none;
+}
+
+/* ---------- formação ---------- */
+
+.education {
+  margin-top: clamp(80px, 11vw, 140px);
+}
+
+.eduCard {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 28px;
+  border: 1px solid var(--line);
+  background: var(--bg-2);
+}
+
+.eduCourse {
+  font-family: var(--font-display);
+  font-stretch: 112%;
+  font-weight: 700;
+  font-size: clamp(22px, 2.6vw, 32px);
+  line-height: 1.15;
+}
+
+.eduInst {
+  margin-top: 6px;
+  color: var(--fg-2);
+}
+
+.eduYears {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-size: clamp(32px, 5vw, 64px);
+  color: var(--fg-2);
+}
+
+.eduYears span[aria-hidden] {
+  color: var(--accent);
+}
+
+@media (max-width: 960px) {
+  .job {
+    grid-template-columns: 1fr;
+  }
+  .side {
+    position: static;
+  }
+}
+
+@media (max-width: 520px) {
+  .line {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    padding: 16px 14px;
+  }
+  .lineTag {
+    justify-self: start;
+  }
+  .metrics {
+    grid-template-columns: 1fr;
+  }
+  .metrics > div {
+    border-left: 0;
+    border-top: 1px solid var(--line);
+  }
+  .metrics > div:first-child {
+    border-top: 0;
+  }
+}

@@ -1,0 +1,263 @@
+.hero {
+  position: relative;
+  min-height: max(640px, 100svh);
+  margin-top: calc(var(--header-h) * -1);
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  isolation: isolate;
+}
+
+.feed {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    radial-gradient(ellipse 80% 60% at 70% 30%, rgba(200, 255, 61, 0.05), transparent 60%),
+    radial-gradient(ellipse 60% 50% at 10% 90%, rgba(255, 178, 36, 0.035), transparent 60%);
+}
+
+.scanlines {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(to bottom, rgba(233, 237, 231, 0.025) 0 1px, transparent 1px 3px);
+}
+
+.vignette {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(to top, var(--bg) 0%, rgba(10, 12, 11, 0.75) 28%, transparent 62%),
+    radial-gradient(ellipse at center, transparent 55%, rgba(0, 0, 0, 0.55) 100%);
+}
+
+/* ---------- HUD ---------- */
+
+.hud {
+  position: absolute;
+  inset: calc(var(--header-h) + 16px) var(--gutter) 20px;
+  pointer-events: none;
+  color: var(--fg-2);
+  font-size: 11px;
+}
+
+.hudTL,
+.hudTR,
+.hudBR {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 14px 18px;
+}
+
+.hudTL {
+  top: 0;
+  left: 0;
+}
+
+.hudTR {
+  top: 0;
+  right: 0;
+  text-align: right;
+}
+
+.hudBR {
+  bottom: 0;
+  right: 0;
+  text-align: right;
+}
+
+.rec {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--rec);
+  font-weight: 700;
+}
+
+.recDot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--rec);
+  box-shadow: 0 0 10px var(--rec);
+  animation: blink 1.4s steps(1) infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0.15;
+  }
+}
+
+.time {
+  color: var(--fg);
+  font-variant-numeric: tabular-nums;
+}
+
+.frame {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  border-color: rgba(233, 237, 231, 0.45);
+  border-style: solid;
+  border-width: 0;
+}
+
+.frameTL {
+  top: 0;
+  left: 0;
+  border-top-width: 1px;
+  border-left-width: 1px;
+}
+
+.frameTR {
+  top: 0;
+  right: 0;
+  border-top-width: 1px;
+  border-right-width: 1px;
+}
+
+.frameBL {
+  bottom: 0;
+  left: 0;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+}
+
+.frameBR {
+  bottom: 0;
+  right: 0;
+  border-bottom-width: 1px;
+  border-right-width: 1px;
+}
+
+.crosshair {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 22px;
+  height: 22px;
+  translate: -50% -50%;
+  opacity: 0.35;
+  background:
+    linear-gradient(var(--fg), var(--fg)) center / 1px 100% no-repeat,
+    linear-gradient(var(--fg), var(--fg)) center / 100% 1px no-repeat;
+}
+
+/* ---------- texto ---------- */
+
+.content {
+  position: relative;
+  padding-top: calc(var(--header-h) + 120px);
+  padding-bottom: clamp(56px, 8vh, 96px);
+  pointer-events: none;
+}
+
+.content a,
+.content button {
+  pointer-events: auto;
+}
+
+.kicker {
+  color: var(--fg-2);
+  margin-bottom: 36px;
+}
+
+.nameBox {
+  display: inline-block;
+  padding: 18px 22px 12px;
+  margin-left: -22px;
+  --len: 22px;
+}
+
+.name {
+  display: flex;
+  flex-direction: column;
+  font-size: clamp(40px, 11.6vw, 184px);
+  line-height: 0.84;
+  letter-spacing: -0.025em;
+  text-shadow: 0 4px 40px rgba(10, 12, 11, 0.6);
+}
+
+.name span:last-child {
+  color: transparent;
+  -webkit-text-stroke: 1.5px var(--fg);
+}
+
+.bottom {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-areas:
+    "pitch actions"
+    "hint hint";
+  gap: 24px 48px;
+  align-items: end;
+  margin-top: 44px;
+}
+
+.pitch {
+  grid-area: pitch;
+  max-width: 54ch;
+  font-size: clamp(17px, 1.55vw, 20px);
+  line-height: 1.55;
+  color: var(--fg-2);
+  text-shadow: 0 1px 14px var(--bg), 0 0 2px var(--bg);
+}
+
+.pitch strong {
+  color: var(--fg);
+  font-weight: 600;
+}
+
+.actions {
+  grid-area: actions;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.hint {
+  grid-area: hint;
+  color: var(--fg-3);
+}
+
+@media (max-width: 860px) {
+  .bottom {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "pitch"
+      "actions"
+      "hint";
+  }
+  .hideSm {
+    display: none;
+  }
+  .content {
+    padding-top: calc(var(--header-h) + 140px);
+  }
+}
+
+@media (max-width: 520px) {
+  .nameBox {
+    padding: 14px 14px 8px;
+    margin-left: -14px;
+    --len: 16px;
+  }
+  .name span:last-child {
+    -webkit-text-stroke-width: 1px;
+  }
+  .actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+@media (hover: none) {
+  .hint {
+    display: none;
+  }
+}

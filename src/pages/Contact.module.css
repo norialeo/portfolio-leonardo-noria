@@ -1,0 +1,145 @@
+.grid {
+  display: grid;
+  grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  gap: clamp(32px, 5vw, 72px);
+  align-items: start;
+}
+
+.colTitle {
+  color: var(--accent);
+  margin-bottom: 18px;
+}
+
+.channels {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+
+.channel {
+  display: flex;
+  align-items: stretch;
+  border-bottom: 1px solid var(--line);
+}
+
+.channelLink {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  min-height: 72px;
+  padding: 12px 8px 12px 0;
+  text-decoration: none;
+  min-width: 0;
+}
+
+.icon {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 48px;
+  height: 48px;
+  border: 1px solid var(--line-2);
+  color: var(--fg);
+  transition:
+    background 0.2s,
+    color 0.2s,
+    border-color 0.2s;
+}
+
+.icon svg {
+  width: 20px;
+  height: 20px;
+}
+
+.channelText {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.channelLabel {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.handle {
+  color: var(--fg-3);
+  text-transform: none;
+  letter-spacing: 0.02em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.arrow {
+  flex: none;
+  width: 20px;
+  height: 20px;
+  margin-left: auto;
+  color: var(--fg-3);
+  transition:
+    transform 0.2s var(--ease-out),
+    color 0.2s;
+}
+
+.channelLink:hover .icon {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-ink);
+}
+
+.channelLink:hover .arrow {
+  color: var(--accent);
+  transform: translate(2px, -2px);
+}
+
+.copy {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  border: 0;
+  border-left: 1px solid var(--line);
+  background: transparent;
+  color: var(--fg-3);
+  transition: color 0.2s;
+}
+
+.copy:hover {
+  color: var(--accent);
+}
+
+.copy svg {
+  width: 16px;
+  height: 16px;
+}
+
+.where {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-top: 24px;
+  color: var(--fg-3);
+  text-transform: none;
+  letter-spacing: 0.02em;
+}
+
+.where svg {
+  width: 14px;
+  height: 14px;
+  color: var(--accent);
+}
+
+.localTime {
+  padding: 2px 8px;
+  border: 1px solid var(--line-2);
+  color: var(--fg);
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

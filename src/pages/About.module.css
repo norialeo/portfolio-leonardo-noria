@@ -1,0 +1,342 @@
+.readIn {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--fg-3);
+}
+
+/* ---------- apresentação ---------- */
+
+.intro {
+  display: grid;
+  grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  gap: clamp(32px, 5vw, 72px);
+  align-items: start;
+}
+
+.portrait {
+  position: sticky;
+  top: calc(var(--header-h) + 32px);
+  padding-top: 20px;
+}
+
+.text {
+  display: grid;
+  gap: 22px;
+}
+
+.lead {
+  font-family: var(--font-display);
+  font-stretch: 105%;
+  font-weight: 600;
+  font-size: clamp(24px, 2.6vw, 34px);
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  margin-bottom: 8px;
+}
+
+.body {
+  color: var(--fg-2);
+  font-size: 18px;
+  line-height: 1.7;
+  max-width: 64ch;
+}
+
+.quick {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  justify-content: start;
+  gap: 8px 40px;
+  margin: 18px 0 0;
+  padding-top: 22px;
+  border-top: 1px solid var(--line);
+}
+
+.quick dt {
+  color: var(--fg-3);
+  font-size: 11px;
+}
+
+.quick dd {
+  margin: 4px 0 0;
+  font-size: 15px;
+}
+
+.statusOk {
+  color: var(--ok);
+}
+
+/* ---------- blocos ---------- */
+
+.block {
+  margin-top: clamp(80px, 11vw, 140px);
+}
+
+.facts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.fact {
+  height: 100%;
+  padding: 26px;
+  border: 1px solid var(--line);
+  background: var(--bg-2);
+}
+
+.factLabel {
+  color: var(--fg-3);
+  margin-bottom: 18px;
+}
+
+.factTitle {
+  font-family: var(--font-display);
+  font-stretch: 110%;
+  font-weight: 700;
+  font-size: clamp(20px, 2vw, 24px);
+  line-height: 1.2;
+  margin-bottom: 12px;
+}
+
+.factText {
+  color: var(--fg-2);
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+/* ---------- stack ---------- */
+
+.skills {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: clamp(24px, 4vw, 56px);
+  align-items: center;
+}
+
+.sphere {
+  border: 1px solid var(--line);
+  background:
+    radial-gradient(circle at center, rgba(200, 255, 61, 0.05), transparent 65%),
+    var(--bg-2);
+}
+
+.groups {
+  display: grid;
+  gap: 22px;
+}
+
+.groupTitle {
+  color: var(--fg-3);
+  font-size: 11px;
+  margin-bottom: 10px;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.chip,
+.chipHot {
+  padding: 4px 10px;
+  border: 1px solid var(--line-2);
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  color: var(--fg-2);
+}
+
+.chipHot {
+  border-color: rgba(200, 255, 61, 0.45);
+  background: var(--accent-dim);
+  color: var(--accent);
+}
+
+/* ---------- GitHub / idiomas / CV ---------- */
+
+.triple {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr 1fr;
+  gap: 20px;
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding: 24px;
+  border: 1px solid var(--line);
+  background: var(--bg-2);
+}
+
+.panelTitle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.ghStats {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0;
+}
+
+.ghStats dt {
+  color: var(--fg-3);
+  font-size: 10.5px;
+}
+
+.ghStats dd {
+  margin: 6px 0 0;
+  font-family: var(--font-display);
+  font-stretch: 125%;
+  font-weight: 800;
+  font-size: 34px;
+  line-height: 1;
+}
+
+.ghStats dd.small {
+  font-size: 18px;
+  font-stretch: 100%;
+  font-weight: 600;
+  padding-top: 8px;
+}
+
+.langBar {
+  display: flex;
+  gap: 2px;
+  height: 6px;
+  background: var(--bg-4);
+}
+
+.langBar span {
+  flex-basis: 0;
+  min-width: 3px;
+}
+
+.repos {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 8px;
+}
+
+.repos li {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 14.5px;
+}
+
+.repos a {
+  color: var(--fg);
+  text-decoration: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.repos a:hover {
+  color: var(--accent);
+}
+
+.repos li span {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--fg-3);
+  font-size: 11px;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.langs {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 18px;
+}
+
+.langRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.langRow .mono {
+  font-size: 11px;
+}
+
+.meter {
+  height: 6px;
+  background: var(--bg-4);
+}
+
+.meter span {
+  display: block;
+  height: 100%;
+  background: var(--accent);
+}
+
+.cvButtons {
+  display: grid;
+  gap: 10px;
+  margin-top: auto;
+}
+
+@media (max-width: 1020px) {
+  .triple {
+    grid-template-columns: 1fr 1fr;
+  }
+  .triple > :first-child {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 860px) {
+  .intro {
+    grid-template-columns: 1fr;
+  }
+  .portrait {
+    position: static;
+    max-width: 460px;
+  }
+  .skills {
+    grid-template-columns: 1fr;
+  }
+  .sphere {
+    max-width: 520px;
+    width: 100%;
+    justify-self: center;
+  }
+}
+
+@media (max-width: 640px) {
+  .facts,
+  .triple {
+    grid-template-columns: 1fr;
+  }
+  .quick {
+    grid-template-columns: 1fr 1fr;
+  }
+  .readIn {
+    justify-content: space-between;
+  }
+}
