@@ -458,13 +458,15 @@ npm test
 - schema de contato (dados válidos, espaços, códigos de erro, limite de tamanho);
 - `POST /api/contact`: método inválido (405), JSON quebrado (400), campos inválidos (422 com códigos), isca anti-robô (202 sem enviar), sem chave (503), envio pelo Resend com `reply_to` correto, **escape de HTML** na mensagem, falha do provedor (502) e **limite por IP** (429 na 4ª mensagem);
 - agregação do GitHub (ignora forks, ordena por push, calcula participação das linguagens, resume eventos);
+- IA: nova tentativa quando o Gemini está sobrecarregado (500/503), troca para o modelo reserva e não troca em erro de cota/chave;
 - rate limiter (janela deslizante).
 
 ```text
+ ✓ tests/ask.test.ts (5 tests)
  ✓ tests/github.test.ts (4 tests)
  ✓ tests/contact.test.ts (12 tests)
- Test Files  2 passed (2)
-      Tests  16 passed (16)
+ Test Files  3 passed (3)
+      Tests  21 passed (21)
 ```
 
 A **CI** (`.github/workflows/ci.yml`) roda lint, tipos, testes e build em cada push e PR.

@@ -91,6 +91,8 @@ export function Terminal() {
                 AI is offline in this environment (missing GEMINI_API_KEY). Meanwhile, <span className={styles.accent}>whoami</span>, <span className={styles.accent}>neofetch</span>, <span className={styles.accent}>projects</span> and <span className={styles.accent}>experience</span> answer almost everything.
               </>
             );
+        else if (api?.code === "overloaded")
+          message = lang === "pt" ? "A IA do Google está sobrecarregada agora. Tente de novo em alguns segundos." : "Google's AI is overloaded right now. Try again in a few seconds.";
         else if (api?.status === 429) message = lang === "pt" ? `Calma! Muitas perguntas seguidas — tente em ${api.retryAfter ?? 60}s.` : `Easy! Too many questions — try again in ${api.retryAfter ?? 60}s.`;
         else message = lang === "pt" ? "Não consegui falar com a IA agora. Tente de novo ou use contact." : "Couldn't reach the AI right now. Try again or use contact.";
         update(id, { kind: "error", streaming: false, content: message });

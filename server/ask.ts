@@ -53,7 +53,40 @@ PERFIL:
 ${PROFILE}
 `;
 
-type HistoryItem = { role: "user" | "model"; text: string };
+// Os modelos do Gemini às vezes respondem 500/503 ("sobrecarregado"). Nesse
+// caso tentamos de novo e, se persistir, passamos para o próximo modelo.
+const FALLBACK_MODELS = ["gemini-flash-lite-latest", "gemini-flash-latest"];
+const RETRYABLE = new Set([500, 503]);
+
+export function modelsToTry(configured?: string): string[] {
+  return [...new Set([configured?.trim() || DEFAULT_MODEL, ...FALLBACK_MODELS])];
+}
+
+export async function callGemini(models: string[], key: string, body: string, signal: AbortSignal): Promise<Response> {
+  let last: Response | null = null;
+  let overloaded: Response | null = null;
+  for (const model of models) {
+    for (let attempt = 0; attempt < 2; attempt++) {
+      if (attempt > 0) await new Promise((resolve) => setTimeout(resolve, 600));
+      last = await fetch(`${API}/${model}:streamGenerateContent?alt=sse`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "x-goog-api-key": key },
+        body,
+        signal,
+      });
+      if (last.ok) return last;
+      if (!RETRYABLE.has(last.status)) break; // 404 (modelo não existe) → próximo modelo
+      overloaded = last;
+      console.warn("Gemini:", model, last.status, `tentativa ${attempt + 1}`);
+    }
+    // erros de chave/cota não melhoram trocando de modelo
+    if (last && (last.status === 400 || last.status === 401 || last.status === 403 || last.status === 429)) return last;
+  }
+  // se algum modelo estava só sobrecarregado, é esse o erro que interessa ao visitante
+  return last?.status === 404 && overloaded ? overloaded : last!;
+}
+
+type HistoryItem ={ role: "user" | "model"; text: string };
 
 function sanitizeHistory(history: unknown) {
   if (!Array.isArray(history)) return [];
@@ -93,19 +126,14 @@ export async function handleAsk(req: ApiRequest, res: ServerResponse, env: Env):
   const timeout = setTimeout(() => controller.abort(), TIMEOUT_MS);
   res.on("close", () => controller.abort());
 
-  const model = env.GEMINI_MODEL?.trim() || DEFAULT_MODEL;
+  const requestBody = JSON.stringify({
+    systemInstruction: { parts: [{ text: SYSTEM }] },
+    contents: [...sanitizeHistory(body.history), { role: "user", parts: [{ text: message }] }],
+    generationConfig: { temperature: 0.4, maxOutputTokens: 600 },
+  });
 
   try {
-    const upstream = await fetch(`${API}/${model}:streamGenerateContent?alt=sse`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json", "x-goog-api-key": key },
-      body: JSON.stringify({
-        systemInstruction: { parts: [{ text: SYSTEM }] },
-        contents: [...sanitizeHistory(body.history), { role: "user", parts: [{ text: message }] }],
-        generationConfig: { temperature: 0.4, maxOutputTokens: 600 },
-      }),
-      signal: controller.signal,
-    });
+    const upstream = await callGemini(modelsToTry(env.GEMINI_MODEL), key, requestBody, controller.signal);
 
     if (!upstream.ok || !upstream.body) {
       const detail = await upstream.text().catch(() => "");
@@ -113,6 +141,9 @@ export async function handleAsk(req: ApiRequest, res: ServerResponse, env: Env):
       if (upstream.status === 429) return sendError(res, 429, "quota", "Cota da IA esgotada por agora.", 60);
       if (upstream.status === 400 && detail.includes("API_KEY_INVALID")) {
         return sendError(res, 503, "not_configured", "GEMINI_API_KEY inválida.");
+      }
+      if (upstream.status === 503 || upstream.status === 500) {
+        return sendError(res, 503, "overloaded", "A IA está sobrecarregada agora. Tente de novo em instantes.", 10);
       }
       return sendError(res, 502, "upstream_error", `A IA respondeu HTTP ${upstream.status}.`);
     }
