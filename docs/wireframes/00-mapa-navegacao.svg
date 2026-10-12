@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 820" width="1320" height="820">
+<rect width="1320" height="820" fill="#f6f6f4"/>
+<text x="40" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">00 · Mapa de navegação e arquitetura</text>
+<text x="40" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0">Estrutura de páginas (React Router), componentes globais e rotas do back-end (Vercel Functions).</text>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10z" fill="#6b6b6b"/></marker></defs>
+<rect x="80" y="110" width="1160" height="50" rx="4" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="660" y="140" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">Layout — Header (logo · nav 01–04 · PT/EN · terminal) · área de conteúdo animada · Footer (CTA · links · status)</text>
+<rect x="80" y="210" width="220" height="70" rx="4" fill="#3a3a3a" stroke="#3a3a3a" stroke-width="1"/>
+<text x="190" y="243" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">Terminal</text>
+<text x="190" y="261" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#ddd" text-anchor="middle" letter-spacing="0.6">Ctrl/⌘ K · overlay global</text>
+<rect x="320" y="210" width="180" height="70" rx="4" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="410" y="243" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">404</text>
+<text x="410" y="261" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">sinal perdido · /*</text>
+<rect x="540" y="210" width="240" height="70" rx="4" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="660" y="243" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">Home  /</text>
+<text x="660" y="261" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">hero detector · resumo</text>
+<rect x="820" y="210" width="180" height="70" rx="4" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="910" y="243" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">i18n PT / EN</text>
+<text x="910" y="261" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">i18next · ?lang=en</text>
+<rect x="1020" y="210" width="220" height="70" rx="4" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="1130" y="243" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">Currículo PDF</text>
+<text x="1130" y="261" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">/cv/*.pdf</text>
+<rect x="80" y="350" width="260" height="70" rx="4" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="210" y="383" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">Sobre</text>
+<text x="210" y="401" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">/sobre</text>
+<path d="M660 282 L210 348" stroke="#6b6b6b" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+<rect x="380" y="350" width="260" height="70" rx="4" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="510" y="383" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">Projetos</text>
+<text x="510" y="401" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">/projetos</text>
+<path d="M660 282 L510 348" stroke="#6b6b6b" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+<rect x="680" y="350" width="260" height="70" rx="4" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="810" y="383" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">Experiências</text>
+<text x="810" y="401" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">/experiencias</text>
+<path d="M660 282 L810 348" stroke="#6b6b6b" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+<rect x="980" y="350" width="260" height="70" rx="4" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="1110" y="383" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">Contato</text>
+<text x="1110" y="401" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">/contato</text>
+<path d="M660 282 L1110 348" stroke="#6b6b6b" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+<text x="80" y="640" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Back-end (Vercel Functions, Node + TypeScript): caixas escuras acima</text>
+<rect x="380" y="520" width="260" height="80" rx="4" fill="#3a3a3a" stroke="#3a3a3a" stroke-width="1"/>
+<text x="510" y="558" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">GET /api/github</text>
+<text x="510" y="576" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#ddd" text-anchor="middle" letter-spacing="0.6">perfil · repos · eventos · cache CDN</text>
+<rect x="680" y="520" width="260" height="80" rx="4" fill="#3a3a3a" stroke="#3a3a3a" stroke-width="1"/>
+<text x="810" y="558" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">POST /api/ask</text>
+<text x="810" y="576" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#ddd" text-anchor="middle" letter-spacing="0.6">Gemini (streaming) · chamado pelo Terminal</text>
+<rect x="980" y="520" width="260" height="80" rx="4" fill="#3a3a3a" stroke="#3a3a3a" stroke-width="1"/>
+<text x="1110" y="558" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">POST /api/contact</text>
+<text x="1110" y="576" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#ddd" text-anchor="middle" letter-spacing="0.6">Zod · isca · rate limit → Resend</text>
+<path d="M510 422 L510 518" stroke="#6b6b6b" stroke-width="1.5" fill="none" stroke-dasharray="5 4" marker-end="url(#arr)"/>
+<path d="M260 422 L430 518" stroke="#6b6b6b" stroke-width="1.5" fill="none" stroke-dasharray="5 4" marker-end="url(#arr)"/>
+<path d="M1110 422 L1110 518" stroke="#6b6b6b" stroke-width="1.5" fill="none" stroke-dasharray="5 4" marker-end="url(#arr)"/>
+<text x="80" y="670" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">/api/github também alimenta a Home (atividade) e o Sobre (estatísticas). /api/ask é chamado pelo Terminal, disponível em todas as páginas.</text>
+<text x="80" y="700" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">LINHAS TRACEJADAS = CHAMADAS HTTP DO NAVEGADOR PARA O BACK-END. AS CHAVES (RESEND, GEMINI, GITHUB) FICAM SÓ NO SERVIDOR.</text>
+</svg>

@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 2230" width="1320" height="2230">
+<rect width="1320" height="2230" fill="#f6f6f4"/>
+<text x="40" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">04 · Experiências (desktop)</text>
+<text x="40" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0">Cada experiência: empresa, cargo, período, descrição, métricas, stack e um log de impacto filtrável por tag.</text>
+<rect x="60" y="90" width="1200" height="2110" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="60" y="90" width="1200" height="34" rx="0" fill="#ececec" stroke="none" stroke-width="1"/>
+<circle cx="74" cy="107" r="5" fill="#c4c4c4"/>
+<circle cx="90" cy="107" r="5" fill="#c4c4c4"/>
+<circle cx="106" cy="107" r="5" fill="#c4c4c4"/>
+<rect x="130" y="98" width="520" height="18" rx="9" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="144" y="111" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">leonardonoria.vercel.app/experiencias</text>
+<rect x="60" y="124" width="1200" height="64" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<line x1="60" y1="188" x2="1260" y2="188" stroke="#c4c4c4"/>
+<path d="M120 147V138H129 M147 138H156V147 M156 165V174H147 M129 174H120V165" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="138" y="161" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">LN</text>
+<text x="168" y="154" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Leonardo Noria</text>
+<text x="168" y="170" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">ENGENHEIRO DE SOFTWARE</text>
+<text x="660" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">01 SOBRE</text>
+<text x="743.2" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">02 PROJETOS</text>
+<text x="848.6" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">03 EXPERIÊNCIAS</text>
+<rect x="848.6" y="170" width="105" height="2" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<text x="983.6" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">04 CONTATO</text>
+<rect x="1070" y="138" width="74" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1073" y="141" width="34" height="30" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<text x="1090" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#fff" text-anchor="middle" letter-spacing="0.6">PT</text>
+<text x="1126" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">EN</text>
+<rect x="1152" y="138" width="82" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1193" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">&gt;_ Ctrl K</text>
+<text x="120" y="238" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b23a2e" text-anchor="start" letter-spacing="0.6">● REC   CH-03  /  EXPERIÊNCIAS</text>
+<text x="1200" y="238" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">12/10/2026 · 11:32:05</text>
+<line x1="120" y1="254" x2="1200" y2="254" stroke="#c4c4c4"/>
+<text x="120" y="338" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="-1">EXPERIÊNCIAS</text>
+<rect x="120" y="368" width="560" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="386" width="336" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<text x="120" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">LEGENDA</text>
+<rect x="190" y="428" width="127" height="28" rx="2" fill="#3a3a3a" stroke="#c4c4c4" stroke-width="1"/>
+<text x="201" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#fff" text-anchor="start" letter-spacing="0.6">FIX bug evitado</text>
+<rect x="325" y="428" width="155" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="336" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">FEAT funcionalidade</text>
+<rect x="488" y="428" width="113" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="499" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">SEC segurança</text>
+<rect x="609" y="428" width="106" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="620" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">OPS operação</text>
+<rect x="723" y="428" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="734" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">DATA dados</text>
+<rect x="823" y="428" width="85" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="834" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">QA testes</text>
+<rect x="916" y="428" width="155" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="927" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">A11Y acessibilidade</text>
+<rect x="1079" y="428" width="99" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1090" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">AI IA/visão</text>
+<circle cx="180" cy="478" r="11" fill="#2f6fed"/>
+<text x="180" y="482" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">1</text>
+<rect x="198" y="468" width="216" height="42" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="206" y="486" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Clicar numa tag filtra as</text>
+<text x="206" y="501" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">linhas do log.</text>
+<text x="120" y="538" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2f8f46" text-anchor="start" letter-spacing="0.6">● RUNNING</text>
+<text x="560" y="538" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">#01</text>
+<text x="120" y="608" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">LITS</text>
+<text x="120" y="642" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Desenvolvedor Full Stack &amp; Mobile</text>
+<text x="120" y="668" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">set/2026 — atual · Remoto</text>
+<line x1="120" y1="690" x2="560" y2="690" stroke="#c4c4c4"/>
+<text x="120" y="714" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b07a00" text-anchor="start" letter-spacing="0.6">PRODUTO · APP SOCIAL DE TÊNIS</text>
+<rect x="120" y="730" width="440" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="746" width="440" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="762" width="440" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="778" width="440" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="794" width="264" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="818" width="440" height="84" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="136" y="858" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" fill="#7a9a10" text-anchor="start" letter-spacing="0">Flutter</text>
+<text x="136" y="884" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">métrica</text>
+<text x="283" y="858" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" fill="#7a9a10" text-anchor="start" letter-spacing="0">Go</text>
+<text x="283" y="884" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">métrica</text>
+<text x="430" y="858" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" fill="#7a9a10" text-anchor="start" letter-spacing="0">3</text>
+<text x="430" y="884" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">métrica</text>
+<text x="120" y="930" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">STACK</text>
+<rect x="120" y="940" width="71" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="131" y="958" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Flutter</text>
+<rect x="197" y="940" width="50" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="208" y="958" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Dart</text>
+<rect x="253" y="940" width="78" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="264" y="958" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Riverpod</text>
+<rect x="337" y="940" width="36" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="348" y="958" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Go</text>
+<rect x="379" y="940" width="50" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="390" y="958" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">gRPC</text>
+<rect x="435" y="940" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="446" y="958" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">PostgreSQL</text>
+<rect x="120" y="974" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="131" y="992" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Kubernetes</text>
+<rect x="620" y="518" width="580" height="700" rx="0" fill="#2f2f2f" stroke="none" stroke-width="1"/>
+<text x="636" y="542" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#bbb" text-anchor="start" letter-spacing="0.6">$ kubectl logs deploy/lits --since=2026-09</text>
+<text x="1184" y="542" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#bbb" text-anchor="end" letter-spacing="0.6">LOG DE IMPACTO</text>
+<rect x="640" y="574" width="46" height="20" rx="0" fill="none" stroke="#e2675c" stroke-width="1"/>
+<text x="663" y="588" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#e2675c" text-anchor="middle" letter-spacing="0.6">FIX</text>
+<rect x="704" y="578" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="602" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="618" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="634" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="640" y="680" width="46" height="20" rx="0" fill="none" stroke="#e2675c" stroke-width="1"/>
+<text x="663" y="694" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#e2675c" text-anchor="middle" letter-spacing="0.6">FIX</text>
+<rect x="704" y="684" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="708" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="724" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="740" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="640" y="786" width="46" height="20" rx="0" fill="none" stroke="#a7c94a" stroke-width="1"/>
+<text x="663" y="800" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#a7c94a" text-anchor="middle" letter-spacing="0.6">FEAT</text>
+<rect x="704" y="790" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="814" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="830" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="846" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="640" y="892" width="46" height="20" rx="0" fill="none" stroke="#a7c94a" stroke-width="1"/>
+<text x="663" y="906" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#a7c94a" text-anchor="middle" letter-spacing="0.6">SEC</text>
+<rect x="704" y="896" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="920" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="936" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="952" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="640" y="998" width="46" height="20" rx="0" fill="none" stroke="#a7c94a" stroke-width="1"/>
+<text x="663" y="1012" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#a7c94a" text-anchor="middle" letter-spacing="0.6">OPS</text>
+<rect x="704" y="1002" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="1026" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1042" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1058" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="640" y="1104" width="46" height="20" rx="0" fill="none" stroke="#a7c94a" stroke-width="1"/>
+<text x="663" y="1118" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#a7c94a" text-anchor="middle" letter-spacing="0.6">DATA</text>
+<rect x="704" y="1108" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="1132" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1148" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1164" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<circle cx="600" cy="638" r="11" fill="#2f6fed"/>
+<text x="600" y="642" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">2</text>
+<rect x="358" y="1098" width="226" height="42" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="366" y="1116" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Coluna da esquerda fica fixa</text>
+<text x="366" y="1131" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">(sticky) enquanto o log rola.</text>
+<text x="120" y="1298" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2f8f46" text-anchor="start" letter-spacing="0.6">● RUNNING</text>
+<text x="560" y="1298" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">#02</text>
+<text x="120" y="1368" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">EXXATA ENGENHARIA</text>
+<text x="120" y="1402" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Desenvolvedor Full Stack</text>
+<text x="120" y="1428" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">ago/2026 — atual · Presencial</text>
+<line x1="120" y1="1450" x2="560" y2="1450" stroke="#c4c4c4"/>
+<text x="120" y="1474" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b07a00" text-anchor="start" letter-spacing="0.6">PRODUTO · OPTIKON</text>
+<rect x="120" y="1490" width="440" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="1506" width="440" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="1522" width="440" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="1538" width="440" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="1554" width="264" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="1578" width="440" height="84" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="136" y="1618" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" fill="#7a9a10" text-anchor="start" letter-spacing="0">Vue 3</text>
+<text x="136" y="1644" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">métrica</text>
+<text x="283" y="1618" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" fill="#7a9a10" text-anchor="start" letter-spacing="0">REST</text>
+<text x="283" y="1644" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">métrica</text>
+<text x="430" y="1618" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" fill="#7a9a10" text-anchor="start" letter-spacing="0">JWT</text>
+<text x="430" y="1644" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">métrica</text>
+<text x="120" y="1690" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">STACK</text>
+<rect x="120" y="1700" width="71" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="131" y="1718" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Flutter</text>
+<rect x="197" y="1700" width="50" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="208" y="1718" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Dart</text>
+<rect x="253" y="1700" width="78" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="264" y="1718" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Riverpod</text>
+<rect x="337" y="1700" width="36" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="348" y="1718" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Go</text>
+<rect x="379" y="1700" width="50" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="390" y="1718" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">gRPC</text>
+<rect x="435" y="1700" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="446" y="1718" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">PostgreSQL</text>
+<rect x="120" y="1734" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="131" y="1752" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Kubernetes</text>
+<rect x="620" y="1278" width="580" height="700" rx="0" fill="#2f2f2f" stroke="none" stroke-width="1"/>
+<text x="636" y="1302" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#bbb" text-anchor="start" letter-spacing="0.6">$ kubectl logs deploy/exxata --since=2026-08</text>
+<text x="1184" y="1302" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#bbb" text-anchor="end" letter-spacing="0.6">LOG DE IMPACTO</text>
+<rect x="640" y="1334" width="46" height="20" rx="0" fill="none" stroke="#e2675c" stroke-width="1"/>
+<text x="663" y="1348" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#e2675c" text-anchor="middle" letter-spacing="0.6">FIX</text>
+<rect x="704" y="1338" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="1362" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1378" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1394" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="640" y="1440" width="46" height="20" rx="0" fill="none" stroke="#e2675c" stroke-width="1"/>
+<text x="663" y="1454" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#e2675c" text-anchor="middle" letter-spacing="0.6">FIX</text>
+<rect x="704" y="1444" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="1468" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1484" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1500" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="640" y="1546" width="46" height="20" rx="0" fill="none" stroke="#a7c94a" stroke-width="1"/>
+<text x="663" y="1560" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#a7c94a" text-anchor="middle" letter-spacing="0.6">FEAT</text>
+<rect x="704" y="1550" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="1574" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1590" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1606" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="640" y="1652" width="46" height="20" rx="0" fill="none" stroke="#a7c94a" stroke-width="1"/>
+<text x="663" y="1666" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#a7c94a" text-anchor="middle" letter-spacing="0.6">SEC</text>
+<rect x="704" y="1656" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="1680" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1696" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1712" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="640" y="1758" width="46" height="20" rx="0" fill="none" stroke="#a7c94a" stroke-width="1"/>
+<text x="663" y="1772" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#a7c94a" text-anchor="middle" letter-spacing="0.6">OPS</text>
+<rect x="704" y="1762" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="1786" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1802" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1818" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="640" y="1864" width="46" height="20" rx="0" fill="none" stroke="#a7c94a" stroke-width="1"/>
+<text x="663" y="1878" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="700" fill="#a7c94a" text-anchor="middle" letter-spacing="0.6">DATA</text>
+<rect x="704" y="1868" width="300" height="10" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="704" y="1892" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1908" width="470" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="704" y="1924" width="260" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<text x="120" y="2058" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">//  Formação</text>
+<rect x="120" y="2082" width="1080" height="120" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="144" y="2114" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">EM ANDAMENTO · 2º PERÍODO</text>
+<text x="144" y="2150" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Bacharelado em Engenharia de Software</text>
+<text x="144" y="2176" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0">PUC Minas</text>
+<text x="1176" y="2168" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="900" fill="#6b6b6b" text-anchor="end" letter-spacing="0">2026 → 2029</text>
+</svg>

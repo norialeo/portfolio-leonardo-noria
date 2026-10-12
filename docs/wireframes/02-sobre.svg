@@ -1,0 +1,221 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 2200" width="1320" height="2200">
+<rect width="1320" height="2200" fill="#f6f6f4"/>
+<text x="40" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">02 · Sobre mim (desktop)</text>
+<text x="40" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0">Apresentação em PT e EN (troca instantânea), ficha técnica, stack 3D, GitHub, idiomas e currículo.</text>
+<rect x="60" y="90" width="1200" height="2080" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="60" y="90" width="1200" height="34" rx="0" fill="#ececec" stroke="none" stroke-width="1"/>
+<circle cx="74" cy="107" r="5" fill="#c4c4c4"/>
+<circle cx="90" cy="107" r="5" fill="#c4c4c4"/>
+<circle cx="106" cy="107" r="5" fill="#c4c4c4"/>
+<rect x="130" y="98" width="520" height="18" rx="9" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="144" y="111" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">leonardonoria.vercel.app/sobre</text>
+<rect x="60" y="124" width="1200" height="64" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<line x1="60" y1="188" x2="1260" y2="188" stroke="#c4c4c4"/>
+<path d="M120 147V138H129 M147 138H156V147 M156 165V174H147 M129 174H120V165" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="138" y="161" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">LN</text>
+<text x="168" y="154" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Leonardo Noria</text>
+<text x="168" y="170" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">ENGENHEIRO DE SOFTWARE</text>
+<text x="660" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">01 SOBRE</text>
+<rect x="660" y="170" width="56" height="2" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<text x="743.2" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">02 PROJETOS</text>
+<text x="848.6" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">03 EXPERIÊNCIAS</text>
+<text x="983.6" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">04 CONTATO</text>
+<rect x="1070" y="138" width="74" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1073" y="141" width="34" height="30" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<text x="1090" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#fff" text-anchor="middle" letter-spacing="0.6">PT</text>
+<text x="1126" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">EN</text>
+<rect x="1152" y="138" width="82" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1193" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">&gt;_ Ctrl K</text>
+<text x="120" y="238" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b23a2e" text-anchor="start" letter-spacing="0.6">● REC   CH-01  /  SOBRE MIM</text>
+<text x="1200" y="238" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">12/10/2026 · 11:32:05</text>
+<line x1="120" y1="254" x2="1200" y2="254" stroke="#c4c4c4"/>
+<text x="120" y="338" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="-1">SOBRE MIM</text>
+<text x="1040" y="308" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">LER EM</text>
+<rect x="1100" y="286" width="100" height="44" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1104" y="290" width="46" height="36" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<text x="1127" y="313" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#fff" text-anchor="middle" letter-spacing="0.6">PT</text>
+<text x="1175" y="313" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">EN</text>
+<circle cx="1200" cy="278" r="11" fill="#2f6fed"/>
+<text x="1200" y="282" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">1</text>
+<rect x="948" y="198" width="246" height="57" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="956" y="216" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Versões em português e inglês: o</text>
+<text x="956" y="231" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">seletor troca todo o site</text>
+<text x="956" y="246" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">(i18next).</text>
+<rect x="120" y="398" width="440" height="440" rx="0" fill="#ececec" stroke="#c4c4c4" stroke-width="1"/>
+<path d="M120 398 L560 838 M560 398 L120 838" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="318.8" y="606" width="42.4" height="24" rx="3" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="340" y="622" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">foto</text>
+<path d="M138 466V452H152 M534 452H548V466 M548 818V832H534 M152 832H138V818" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<rect x="138" y="434" width="84.6" height="18" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<text x="144" y="447" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="start" letter-spacing="0.6">person 0.99</text>
+<path d="M210 500V488H222 M328 488H340V500 M340 641V653H328 M222 653H210V641" fill="none" stroke="#c98a00" stroke-width="2.5"/>
+<rect x="210" y="470" width="183.6" height="18" rx="0" fill="#c98a00" stroke="none" stroke-width="1"/>
+<text x="216" y="483" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="start" letter-spacing="0.6">face · leonardo_noria 0.97</text>
+<path d="M365 550V538H377 M445 538H457V550 M457 686V698H445 M377 698H365V686" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<rect x="365" y="520" width="111" height="18" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<text x="371" y="533" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="start" letter-spacing="0.6">cell phone 0.94</text>
+<text x="120" y="860" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">CAM-01 · FRAME 000421          3 OBJECTS · 5 KEYPOINTS · 31MS</text>
+<circle cx="540" cy="428" r="11" fill="#2f6fed"/>
+<text x="540" y="432" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">2</text>
+<rect x="568" y="378" width="216" height="57" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="576" y="396" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Foto com caixas de detecção</text>
+<text x="576" y="411" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">estilo YOLO (classes do dataset</text>
+<text x="576" y="426" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">COCO).</text>
+<text x="620" y="428" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Sou desenvolvedor full stack e mobile.</text>
+<text x="620" y="460" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Entrego do banco de dados à tela do app.</text>
+<rect x="620" y="498" width="580" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="620" y="516" width="580" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="620" y="534" width="580" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="620" y="552" width="580" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="620" y="570" width="580" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="620" y="588" width="348" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="620" y="628" width="580" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="620" y="646" width="580" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="620" y="664" width="348" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<line x1="620" y1="698" x2="1200" y2="698" stroke="#c4c4c4"/>
+<text x="620" y="723" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">BASE                 FOCO                       STATUS</text>
+<text x="620" y="743" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Belo Horizonte, MG     Full Stack · Mobile     aberto a vagas e projetos</text>
+<text x="120" y="938" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">01  Ficha técnica</text>
+<rect x="120" y="962" width="530" height="170" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="144" y="996" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">01 FORMAÇÃO</text>
+<text x="144" y="1032" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Engenharia de Software · PUC Minas</text>
+<rect x="144" y="1052" width="470" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="144" y="1068" width="470" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="144" y="1084" width="282" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="670" y="962" width="530" height="170" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="694" y="996" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">02 ÁREA DE ATUAÇÃO</text>
+<text x="694" y="1032" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Full stack e mobile</text>
+<rect x="694" y="1052" width="470" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="694" y="1068" width="470" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="694" y="1084" width="282" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="1152" width="530" height="170" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="144" y="1186" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">03 INTERESSES</text>
+<text x="144" y="1222" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Produto, mobile e arquitetura</text>
+<rect x="144" y="1242" width="470" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="144" y="1258" width="470" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="144" y="1274" width="282" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="670" y="1152" width="530" height="170" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="694" y="1186" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">04 OBJETIVOS</text>
+<text x="694" y="1222" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Crescer como full stack</text>
+<rect x="694" y="1242" width="470" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="694" y="1258" width="470" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="694" y="1274" width="282" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<text x="120" y="1382" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">02  Stack</text>
+<text x="1200" y="1382" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">ARRASTE PARA GIRAR</text>
+<rect x="120" y="1406" width="520" height="520" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<circle cx="380" cy="1666" r="200" fill="none" stroke="#c4c4c4"/>
+<ellipse cx="380" cy="1666" rx="200" ry="60" fill="none" stroke="#c4c4c4"/>
+<text x="350" y="1556" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#7a9a10" text-anchor="start" letter-spacing="0">Flutter</text>
+<text x="290" y="1646" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#7a9a10" text-anchor="start" letter-spacing="0">Go</text>
+<text x="440" y="1616" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#7a9a10" text-anchor="start" letter-spacing="0">React</text>
+<text x="310" y="1736" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#7a9a10" text-anchor="start" letter-spacing="0">TypeScript</text>
+<text x="420" y="1706" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0">PostgreSQL</text>
+<text x="390" y="1796" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0">Dart</text>
+<text x="480" y="1666" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0">Vue 3</text>
+<text x="250" y="1706" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0">Docker</text>
+<circle cx="620" cy="1446" r="11" fill="#2f6fed"/>
+<text x="620" y="1450" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">3</text>
+<rect x="388" y="1906" width="246" height="42" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="396" y="1924" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Esfera 3D de tecnologias em canvas</text>
+<text x="396" y="1939" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">(gira sozinha, arrastar controla).</text>
+<text x="680" y="1426" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">LINGUAGENS</text>
+<rect x="680" y="1438" width="71" height="28" rx="2" fill="#3a3a3a" stroke="#c4c4c4" stroke-width="1"/>
+<text x="691" y="1456" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#fff" text-anchor="start" letter-spacing="0.6">Flutter</text>
+<rect x="757" y="1438" width="36" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="768" y="1456" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Go</text>
+<rect x="799" y="1438" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="810" y="1456" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">TypeScript</text>
+<rect x="897" y="1438" width="50" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="908" y="1456" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Dart</text>
+<rect x="953" y="1438" width="43" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="964" y="1456" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">SQL</text>
+<text x="680" y="1498" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">FRONT-END E MOBILE</text>
+<rect x="680" y="1510" width="71" height="28" rx="2" fill="#3a3a3a" stroke="#c4c4c4" stroke-width="1"/>
+<text x="691" y="1528" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#fff" text-anchor="start" letter-spacing="0.6">Flutter</text>
+<rect x="757" y="1510" width="36" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="768" y="1528" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Go</text>
+<rect x="799" y="1510" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="810" y="1528" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">TypeScript</text>
+<rect x="897" y="1510" width="50" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="908" y="1528" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Dart</text>
+<rect x="953" y="1510" width="43" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="964" y="1528" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">SQL</text>
+<text x="680" y="1570" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">BACK-END</text>
+<rect x="680" y="1582" width="71" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="691" y="1600" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Flutter</text>
+<rect x="757" y="1582" width="36" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="768" y="1600" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Go</text>
+<rect x="799" y="1582" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="810" y="1600" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">TypeScript</text>
+<rect x="897" y="1582" width="50" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="908" y="1600" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Dart</text>
+<rect x="953" y="1582" width="43" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="964" y="1600" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">SQL</text>
+<text x="680" y="1642" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">DADOS</text>
+<rect x="680" y="1654" width="71" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="691" y="1672" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Flutter</text>
+<rect x="757" y="1654" width="36" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="768" y="1672" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Go</text>
+<rect x="799" y="1654" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="810" y="1672" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">TypeScript</text>
+<rect x="897" y="1654" width="50" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="908" y="1672" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Dart</text>
+<rect x="953" y="1654" width="43" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="964" y="1672" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">SQL</text>
+<text x="680" y="1714" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">INFRA E DEVOPS</text>
+<rect x="680" y="1726" width="71" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="691" y="1744" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Flutter</text>
+<rect x="757" y="1726" width="36" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="768" y="1744" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Go</text>
+<rect x="799" y="1726" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="810" y="1744" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">TypeScript</text>
+<rect x="897" y="1726" width="50" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="908" y="1744" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Dart</text>
+<rect x="953" y="1726" width="43" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="964" y="1744" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">SQL</text>
+<text x="680" y="1786" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">INTEGRAÇÕES</text>
+<rect x="680" y="1798" width="71" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="691" y="1816" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Flutter</text>
+<rect x="757" y="1798" width="36" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="768" y="1816" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Go</text>
+<rect x="799" y="1798" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="810" y="1816" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">TypeScript</text>
+<rect x="897" y="1798" width="50" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="908" y="1816" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Dart</text>
+<rect x="953" y="1798" width="43" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="964" y="1816" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">SQL</text>
+<text x="680" y="1858" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">IA (PROJETOS)</text>
+<rect x="680" y="1870" width="71" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="691" y="1888" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Flutter</text>
+<rect x="757" y="1870" width="36" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="768" y="1888" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Go</text>
+<rect x="799" y="1870" width="92" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="810" y="1888" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">TypeScript</text>
+<rect x="897" y="1870" width="50" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="908" y="1888" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Dart</text>
+<rect x="953" y="1870" width="43" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="964" y="1888" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">SQL</text>
+<rect x="120" y="1986" width="460" height="260" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="140" y="2016" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#7a9a10" text-anchor="start" letter-spacing="0.6">GITHUB AO VIVO</text>
+<text x="140" y="2070" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#2b2b2b" text-anchor="start" letter-spacing="0">13       3       fev/2026</text>
+<rect x="140" y="2090" width="420" height="6" rx="0" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="140" y="2116" width="420" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="140" y="2138" width="420" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="140" y="2160" width="420" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="140" y="2182" width="420" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="600" y="1986" width="300" height="260" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="620" y="2016" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#7a9a10" text-anchor="start" letter-spacing="0.6">IDIOMAS</text>
+<text x="620" y="2060" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Português — Nativo</text>
+<rect x="620" y="2070" width="260" height="6" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<text x="620" y="2110" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Inglês — Intermediário avançado</text>
+<rect x="620" y="2120" width="260" height="6" rx="0" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="620" y="2120" width="187.2" height="6" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<rect x="920" y="1986" width="300" height="260" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="940" y="2016" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#7a9a10" text-anchor="start" letter-spacing="0.6">CURRÍCULO</text>
+<rect x="940" y="2046" width="260" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="940" y="2062" width="156" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="940" y="2136" width="260" height="40" rx="2" fill="#3a3a3a" stroke="#3a3a3a" stroke-width="1"/>
+<text x="1070" y="2160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0.6">↓ CURRÍCULO (PT)</text>
+<rect x="940" y="2186" width="260" height="40" rx="2" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="1070" y="2210" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">↓ RÉSUMÉ (EN)</text>
+</svg>

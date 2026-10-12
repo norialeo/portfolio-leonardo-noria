@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1520 1260" width="1520" height="1260">
+<rect width="1520" height="1260" fill="#f6f6f4"/>
+<text x="40" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">05 · Contato (desktop)</text>
+<text x="40" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0">Ícones clicáveis (e-mail, WhatsApp, LinkedIn, GitHub, Instagram, Discord) + formulário com envio por e-mail.</text>
+<rect x="60" y="90" width="1200" height="1140" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="60" y="90" width="1200" height="34" rx="0" fill="#ececec" stroke="none" stroke-width="1"/>
+<circle cx="74" cy="107" r="5" fill="#c4c4c4"/>
+<circle cx="90" cy="107" r="5" fill="#c4c4c4"/>
+<circle cx="106" cy="107" r="5" fill="#c4c4c4"/>
+<rect x="130" y="98" width="520" height="18" rx="9" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="144" y="111" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">leonardonoria.vercel.app/contato</text>
+<rect x="60" y="124" width="1200" height="64" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<line x1="60" y1="188" x2="1260" y2="188" stroke="#c4c4c4"/>
+<path d="M120 147V138H129 M147 138H156V147 M156 165V174H147 M129 174H120V165" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="138" y="161" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">LN</text>
+<text x="168" y="154" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Leonardo Noria</text>
+<text x="168" y="170" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">ENGENHEIRO DE SOFTWARE</text>
+<text x="660" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">01 SOBRE</text>
+<text x="743.2" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">02 PROJETOS</text>
+<text x="848.6" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">03 EXPERIÊNCIAS</text>
+<text x="983.6" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">04 CONTATO</text>
+<rect x="983.6" y="170" width="70" height="2" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<rect x="1070" y="138" width="74" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1073" y="141" width="34" height="30" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<text x="1090" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#fff" text-anchor="middle" letter-spacing="0.6">PT</text>
+<text x="1126" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">EN</text>
+<rect x="1152" y="138" width="82" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1193" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">&gt;_ Ctrl K</text>
+<text x="120" y="238" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b23a2e" text-anchor="start" letter-spacing="0.6">● REC   CH-04  /  CONTATO</text>
+<text x="1200" y="238" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">12/10/2026 · 11:32:05</text>
+<line x1="120" y1="254" x2="1200" y2="254" stroke="#c4c4c4"/>
+<text x="120" y="338" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="-1">CONTATO</text>
+<rect x="120" y="368" width="560" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="386" width="336" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<text x="120" y="438" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#7a9a10" text-anchor="start" letter-spacing="0.6">CANAIS DIRETOS</text>
+<line x1="120" y1="454" x2="560" y2="454" stroke="#c4c4c4"/>
+<rect x="120" y="468" width="48" height="48" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="144" y="497" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">ico</text>
+<text x="184" y="490" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">E-mail</text>
+<text x="184" y="508" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">leonoria09@gmail.com</text>
+<text x="510" y="497" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">↗</text>
+<line x1="526" y1="454" x2="526" y2="530" stroke="#c4c4c4"/>
+<text x="544" y="497" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">⧉</text>
+<line x1="120" y1="530" x2="560" y2="530" stroke="#c4c4c4"/>
+<rect x="120" y="544" width="48" height="48" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="144" y="573" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">ico</text>
+<text x="184" y="566" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">WhatsApp</text>
+<text x="184" y="584" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">+55 (31) 99853-1810</text>
+<text x="510" y="573" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">↗</text>
+<line x1="526" y1="530" x2="526" y2="606" stroke="#c4c4c4"/>
+<text x="544" y="573" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">⧉</text>
+<line x1="120" y1="606" x2="560" y2="606" stroke="#c4c4c4"/>
+<rect x="120" y="620" width="48" height="48" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="144" y="649" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">ico</text>
+<text x="184" y="642" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">LinkedIn</text>
+<text x="184" y="660" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">in/leonardonoria</text>
+<text x="510" y="649" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">↗</text>
+<line x1="120" y1="682" x2="560" y2="682" stroke="#c4c4c4"/>
+<rect x="120" y="696" width="48" height="48" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="144" y="725" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">ico</text>
+<text x="184" y="718" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">GitHub</text>
+<text x="184" y="736" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">@norialeo</text>
+<text x="510" y="725" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">↗</text>
+<line x1="120" y1="758" x2="560" y2="758" stroke="#c4c4c4"/>
+<rect x="120" y="772" width="48" height="48" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="144" y="801" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">ico</text>
+<text x="184" y="794" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Instagram</text>
+<text x="184" y="812" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">@norialeo_</text>
+<text x="510" y="801" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">↗</text>
+<line x1="120" y1="834" x2="560" y2="834" stroke="#c4c4c4"/>
+<rect x="120" y="848" width="48" height="48" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="144" y="877" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">ico</text>
+<text x="184" y="870" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Discord</text>
+<text x="184" y="888" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">leoftn</text>
+<text x="510" y="877" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">↗</text>
+<circle cx="550" cy="498" r="11" fill="#2f6fed"/>
+<text x="550" y="502" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">1</text>
+<rect x="318" y="958" width="256" height="57" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="326" y="976" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Cada linha abre o canal (mailto,</text>
+<text x="326" y="991" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">wa.me, perfis). E-mail e telefone têm</text>
+<text x="326" y="1006" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">botão de copiar.</text>
+<text x="120" y="948" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">⌖ Belo Horizonte, MG · Brasil · UTC−3   [11:32]</text>
+<text x="620" y="438" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#7a9a10" text-anchor="start" letter-spacing="0.6">MANDAR MENSAGEM</text>
+<rect x="620" y="454" width="580" height="560" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="620" y="454" width="580" height="44" rx="0" fill="#ececec" stroke="none" stroke-width="1"/>
+<text x="638" y="481" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">POST /api/contact HTTP/1.1</text>
+<text x="1184" y="481" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">application/json</text>
+<text x="640" y="528" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">"name" NOME</text>
+<rect x="640" y="538" width="540" height="48" rx="0" fill="#fbfbfb" stroke="#c4c4c4" stroke-width="1"/>
+<text x="640" y="620" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">"email" E-MAIL</text>
+<rect x="640" y="630" width="540" height="48" rx="0" fill="#fbfbfb" stroke="#c4c4c4" stroke-width="1"/>
+<text x="640" y="712" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">"message" MENSAGEM</text>
+<rect x="640" y="722" width="540" height="150" rx="0" fill="#fbfbfb" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1180" y="890" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">0/2000</text>
+<text x="640" y="890" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#c0392b" text-anchor="start" letter-spacing="0">Escreva pelo menos 10 caracteres.</text>
+<rect x="640" y="908" width="220" height="46" rx="2" fill="#3a3a3a" stroke="#3a3a3a" stroke-width="1"/>
+<text x="750" y="935" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0.6">ENVIAR MENSAGEM ➤</text>
+<line x1="620" y1="968" x2="1200" y2="968" stroke="#c4c4c4"/>
+<text x="640" y="994" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2f8f46" text-anchor="start" letter-spacing="0.6">HTTP/1.1 202 ACCEPTED · 312MS — mensagem entregue!</text>
+<circle cx="1180" cy="728" r="11" fill="#2f6fed"/>
+<text x="1180" y="732" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">2</text>
+<rect x="1188" y="718" width="166" height="87" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="1196" y="736" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Validação com Zod no</text>
+<text x="1196" y="751" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">navegador E no servidor</text>
+<text x="1196" y="766" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">(mesmo schema). Isca</text>
+<text x="1196" y="781" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">anti-robô e limite por</text>
+<text x="1196" y="796" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">IP.</text>
+<circle cx="1180" cy="988" r="11" fill="#2f6fed"/>
+<text x="1180" y="992" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">3</text>
+<rect x="1188" y="988" width="166" height="87" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="1196" y="1006" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Resposta da função</text>
+<text x="1196" y="1021" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">/api/contact (Resend).</text>
+<text x="1196" y="1036" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Se o envio estiver</text>
+<text x="1196" y="1051" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">desligado, oferece</text>
+<text x="1196" y="1066" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">abrir o app de e-mail.</text>
+</svg>

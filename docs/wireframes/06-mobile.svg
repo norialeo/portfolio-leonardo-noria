@@ -1,0 +1,202 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2340 1000" width="2340" height="1000">
+<rect width="2340" height="1000" fill="#f6f6f4"/>
+<text x="40" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">06 · Mobile (375px)</text>
+<text x="40" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0">Navegação por menu em tela cheia, conteúdo em uma coluna, alvos de toque ≥ 44px. O terminal vira tela cheia.</text>
+<text x="40" y="92" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Home</text>
+<rect x="40" y="100" width="360" height="860" rx="28" fill="#ffffff" stroke="#3a3a3a" stroke-width="2"/>
+<rect x="60" y="140" width="320" height="52" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<path d="M64 156V148H72 M90 148H98V156 M98 174V182H90 M72 182H64V174" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="81" y="170" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="800" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">LN</text>
+<rect x="216" y="148" width="70" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="219" y="151" width="32" height="30" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<rect x="292" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="312" y="171" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">&gt;_</text>
+<rect x="338" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="350" y="160" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<rect x="350" y="166" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<rect x="350" y="172" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<rect x="52" y="210" width="336" height="330" rx="0" fill="#ececec" stroke="#c4c4c4" stroke-width="1"/>
+<path d="M52 210 L388 540 M388 210 L52 540" stroke="#c4c4c4" stroke-width="1"/>
+<path d="M100 258V250H108 M172 250H180V258 M180 312V320H172 M108 320H100V312" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<rect x="100" y="232" width="84.6" height="18" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<text x="106" y="245" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="start" letter-spacing="0.6">python 0.97</text>
+<path d="M240 308V300H248 M322 300H330V308 M330 352V360H322 M248 360H240V352" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<rect x="240" y="282" width="58.199999999999996" height="18" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<text x="246" y="295" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="start" letter-spacing="0.6">go 0.96</text>
+<path d="M58 472V460H70 M346 460H358V472 M358 558V570H346 M70 570H58V558" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<rect x="58" y="442" width="84.6" height="18" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<text x="64" y="455" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="start" letter-spacing="0.6">person 0.99</text>
+<text x="70" y="520" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="-1">LEONARDO</text>
+<text x="70" y="562" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="900" fill="none" stroke="#2b2b2b" stroke-width="1">NORIA</text>
+<rect x="64" y="600" width="300" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="64" y="618" width="300" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="64" y="636" width="300" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="64" y="654" width="180" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="64" y="690" width="312" height="48" rx="2" fill="#3a3a3a" stroke="#3a3a3a" stroke-width="1"/>
+<text x="220" y="718" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0.6">VER PROJETOS ↘</text>
+<rect x="64" y="748" width="312" height="48" rx="2" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="220" y="776" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">&gt;_ ABRIR TERMINAL</text>
+<circle cx="370" cy="340" r="11" fill="#2f6fed"/>
+<text x="370" y="344" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">1</text>
+<rect x="188" y="800" width="186" height="42" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="196" y="818" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">No celular os objetos</text>
+<text x="196" y="833" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">ficam acima do texto.</text>
+<text x="420" y="92" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Menu aberto</text>
+<rect x="420" y="100" width="360" height="860" rx="28" fill="#ffffff" stroke="#3a3a3a" stroke-width="2"/>
+<rect x="440" y="140" width="320" height="52" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<path d="M444 156V148H452 M470 148H478V156 M478 174V182H470 M452 182H444V174" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="461" y="170" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="800" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">LN</text>
+<rect x="596" y="148" width="70" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="599" y="151" width="32" height="30" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<rect x="672" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="692" y="171" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">&gt;_</text>
+<rect x="718" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="738" y="171" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">✕</text>
+<text x="444" y="270" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" fill="#6b6b6b" text-anchor="start" letter-spacing="0">00 INÍCIO</text>
+<line x1="444" y1="290" x2="756" y2="290" stroke="#c4c4c4"/>
+<text x="444" y="340" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" fill="#6b6b6b" text-anchor="start" letter-spacing="0">01 SOBRE</text>
+<line x1="444" y1="360" x2="756" y2="360" stroke="#c4c4c4"/>
+<text x="444" y="410" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" fill="#6b6b6b" text-anchor="start" letter-spacing="0">02 PROJETOS</text>
+<line x1="444" y1="430" x2="756" y2="430" stroke="#c4c4c4"/>
+<text x="444" y="480" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">03 EXPERIÊNCIAS</text>
+<line x1="444" y1="500" x2="756" y2="500" stroke="#c4c4c4"/>
+<text x="444" y="550" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" fill="#6b6b6b" text-anchor="start" letter-spacing="0">04 CONTATO</text>
+<line x1="444" y1="570" x2="756" y2="570" stroke="#c4c4c4"/>
+<text x="444" y="630" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">DICA: O BOTÃO &gt;_ ABRE UM TERMINAL.</text>
+<text x="800" y="92" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Sobre</text>
+<rect x="800" y="100" width="360" height="860" rx="28" fill="#ffffff" stroke="#3a3a3a" stroke-width="2"/>
+<rect x="820" y="140" width="320" height="52" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<path d="M824 156V148H832 M850 148H858V156 M858 174V182H850 M832 182H824V174" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="841" y="170" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="800" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">LN</text>
+<rect x="976" y="148" width="70" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="979" y="151" width="32" height="30" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<rect x="1052" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1072" y="171" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">&gt;_</text>
+<rect x="1098" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1110" y="160" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<rect x="1110" y="166" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<rect x="1110" y="172" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<text x="824" y="230" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b23a2e" text-anchor="start" letter-spacing="0.6">● REC  CH-01</text>
+<text x="824" y="280" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">SOBRE</text>
+<rect x="824" y="302" width="300" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="824" y="320" width="300" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="824" y="338" width="180" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="824" y="370" width="312" height="312" rx="0" fill="#ececec" stroke="#c4c4c4" stroke-width="1"/>
+<path d="M824 370 L1136 682 M1136 370 L824 682" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="919.2" y="514" width="121.6" height="24" rx="3" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="980" y="530" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">foto + detecções</text>
+<rect x="824" y="704" width="312" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="824" y="720" width="312" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="824" y="736" width="312" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="824" y="752" width="312" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="824" y="768" width="312" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="824" y="784" width="187.2" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<text x="1180" y="92" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Projetos</text>
+<rect x="1180" y="100" width="360" height="860" rx="28" fill="#ffffff" stroke="#3a3a3a" stroke-width="2"/>
+<rect x="1200" y="140" width="320" height="52" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<path d="M1204 156V148H1212 M1230 148H1238V156 M1238 174V182H1230 M1212 182H1204V174" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="1221" y="170" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="800" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">LN</text>
+<rect x="1356" y="148" width="70" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1359" y="151" width="32" height="30" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<rect x="1432" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1452" y="171" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">&gt;_</text>
+<rect x="1478" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1490" y="160" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<rect x="1490" y="166" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<rect x="1490" y="172" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<text x="1204" y="230" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b23a2e" text-anchor="start" letter-spacing="0.6">● REC  CH-02</text>
+<text x="1204" y="280" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">PROJETOS</text>
+<rect x="1204" y="302" width="300" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1204" y="320" width="300" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1204" y="338" width="180" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1204" y="370" width="57" height="28" rx="2" fill="#3a3a3a" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1215" y="388" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#fff" text-anchor="start" letter-spacing="0.6">Todos</text>
+<rect x="1267" y="370" width="43" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1278" y="388" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Web</text>
+<rect x="1316" y="370" width="64" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1327" y="388" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Python</text>
+<rect x="1386" y="370" width="36" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1397" y="388" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">IA</text>
+<text x="1204" y="420" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">← filtros rolam na horizontal →</text>
+<line x1="1210" y1="450" x2="1210" y2="950" stroke="#7a9a10" stroke-width="2"/>
+<text x="1230" y="480" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">AUTOMAÇÃO DE</text>
+<text x="1230" y="506" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">CADASTRO</text>
+<rect x="1230" y="526" width="280" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1230" y="542" width="280" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1230" y="558" width="168" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1230" y="590" width="280" height="175" rx="0" fill="#ececec" stroke="#c4c4c4" stroke-width="1"/>
+<path d="M1230 590 L1510 765 M1510 590 L1230 765" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1342.2" y="665.5" width="55.599999999999994" height="24" rx="3" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1370" y="681.5" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">prévia</text>
+<rect x="1230" y="780" width="150" height="44" rx="2" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="1305" y="806" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">REPOSITÓRIO</text>
+<text x="1560" y="92" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Experiências</text>
+<rect x="1560" y="100" width="360" height="860" rx="28" fill="#ffffff" stroke="#3a3a3a" stroke-width="2"/>
+<rect x="1580" y="140" width="320" height="52" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<path d="M1584 156V148H1592 M1610 148H1618V156 M1618 174V182H1610 M1592 182H1584V174" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="1601" y="170" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="800" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">LN</text>
+<rect x="1736" y="148" width="70" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1739" y="151" width="32" height="30" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<rect x="1812" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1832" y="171" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">&gt;_</text>
+<rect x="1858" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1870" y="160" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<rect x="1870" y="166" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<rect x="1870" y="172" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<text x="1584" y="230" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b23a2e" text-anchor="start" letter-spacing="0.6">● REC  CH-03</text>
+<text x="1584" y="280" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">EXPERIÊNCIAS</text>
+<rect x="1584" y="302" width="300" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1584" y="320" width="300" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1584" y="338" width="180" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<text x="1584" y="410" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">LITS</text>
+<rect x="1584" y="432" width="300" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1584" y="448" width="300" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1584" y="464" width="180" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1584" y="500" width="312" height="330" rx="0" fill="#2f2f2f" stroke="none" stroke-width="1"/>
+<rect x="1600" y="520" width="46" height="20" rx="0" fill="none" stroke="#a7c94a" stroke-width="1"/>
+<rect x="1600" y="550" width="260" height="9" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="1600" y="568" width="230" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="1600" y="620" width="46" height="20" rx="0" fill="none" stroke="#a7c94a" stroke-width="1"/>
+<rect x="1600" y="650" width="260" height="9" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="1600" y="668" width="230" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<rect x="1600" y="720" width="46" height="20" rx="0" fill="none" stroke="#a7c94a" stroke-width="1"/>
+<rect x="1600" y="750" width="260" height="9" rx="3" fill="#777" stroke="none" stroke-width="1"/>
+<rect x="1600" y="768" width="230" height="7" rx="3" fill="#555" stroke="none" stroke-width="1"/>
+<text x="1940" y="92" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Contato</text>
+<rect x="1940" y="100" width="360" height="860" rx="28" fill="#ffffff" stroke="#3a3a3a" stroke-width="2"/>
+<rect x="1960" y="140" width="320" height="52" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<path d="M1964 156V148H1972 M1990 148H1998V156 M1998 174V182H1990 M1972 182H1964V174" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="1981" y="170" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="800" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">LN</text>
+<rect x="2116" y="148" width="70" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="2119" y="151" width="32" height="30" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<rect x="2192" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="2212" y="171" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">&gt;_</text>
+<rect x="2238" y="148" width="40" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="2250" y="160" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<rect x="2250" y="166" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<rect x="2250" y="172" width="16" height="2" rx="0" fill="#2b2b2b" stroke="none" stroke-width="1"/>
+<text x="1964" y="230" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b23a2e" text-anchor="start" letter-spacing="0.6">● REC  CH-04</text>
+<text x="1964" y="280" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">CONTATO</text>
+<rect x="1964" y="302" width="300" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1964" y="320" width="300" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1964" y="338" width="180" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1964" y="380" width="44" height="44" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="2020" y="390" width="120" height="10" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="2020" y="408" width="160" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1964" y="444" width="44" height="44" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="2020" y="454" width="120" height="10" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="2020" y="472" width="160" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1964" y="508" width="44" height="44" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="2020" y="518" width="120" height="10" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="2020" y="536" width="160" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1964" y="572" width="44" height="44" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="2020" y="582" width="120" height="10" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="2020" y="600" width="160" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="1964" y="650" width="312" height="280" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1976" y="672" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">POST /api/contact</text>
+<rect x="1976" y="690" width="288" height="44" rx="0" fill="#fbfbfb" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1976" y="746" width="288" height="44" rx="0" fill="#fbfbfb" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1976" y="802" width="288" height="70" rx="0" fill="#fbfbfb" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1976" y="882" width="288" height="40" rx="2" fill="#3a3a3a" stroke="#3a3a3a" stroke-width="1"/>
+<text x="2120" y="906" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0.6">ENVIAR MENSAGEM</text>
+</svg>

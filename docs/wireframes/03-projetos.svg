@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 2350" width="1320" height="2350">
+<rect width="1320" height="2350" fill="#f6f6f4"/>
+<text x="40" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">03 · Projetos (desktop)</text>
+<text x="40" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0">Linha do tempo do mais antigo ao mais recente, com filtros por tecnologia e mídia de cada projeto.</text>
+<rect x="60" y="90" width="1200" height="2230" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="60" y="90" width="1200" height="34" rx="0" fill="#ececec" stroke="none" stroke-width="1"/>
+<circle cx="74" cy="107" r="5" fill="#c4c4c4"/>
+<circle cx="90" cy="107" r="5" fill="#c4c4c4"/>
+<circle cx="106" cy="107" r="5" fill="#c4c4c4"/>
+<rect x="130" y="98" width="520" height="18" rx="9" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="144" y="111" font-family="Consolas, 'Courier New', monospace" font-size="10" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">leonardonoria.vercel.app/projetos</text>
+<rect x="60" y="124" width="1200" height="64" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<line x1="60" y1="188" x2="1260" y2="188" stroke="#c4c4c4"/>
+<path d="M120 147V138H129 M147 138H156V147 M156 165V174H147 M129 174H120V165" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="138" y="161" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" fill="#2b2b2b" text-anchor="middle" letter-spacing="0">LN</text>
+<text x="168" y="154" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0">Leonardo Noria</text>
+<text x="168" y="170" font-family="Consolas, 'Courier New', monospace" font-size="9" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">ENGENHEIRO DE SOFTWARE</text>
+<text x="660" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">01 SOBRE</text>
+<text x="743.2" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">02 PROJETOS</text>
+<rect x="743.2" y="170" width="77" height="2" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<text x="848.6" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">03 EXPERIÊNCIAS</text>
+<text x="983.6" y="161" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">04 CONTATO</text>
+<rect x="1070" y="138" width="74" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="1073" y="141" width="34" height="30" rx="0" fill="#3a3a3a" stroke="none" stroke-width="1"/>
+<text x="1090" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#fff" text-anchor="middle" letter-spacing="0.6">PT</text>
+<text x="1126" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="middle" letter-spacing="0.6">EN</text>
+<rect x="1152" y="138" width="82" height="36" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="1193" y="160" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">&gt;_ Ctrl K</text>
+<text x="120" y="238" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b23a2e" text-anchor="start" letter-spacing="0.6">● REC   CH-02  /  PROJETOS</text>
+<text x="1200" y="238" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">12/10/2026 · 11:32:05</text>
+<line x1="120" y1="254" x2="1200" y2="254" stroke="#c4c4c4"/>
+<text x="120" y="338" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="-1">PROJETOS</text>
+<rect x="120" y="368" width="560" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="386" width="336" height="9" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="120" y="428" width="71" height="28" rx="2" fill="#3a3a3a" stroke="#c4c4c4" stroke-width="1"/>
+<text x="131" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#fff" text-anchor="start" letter-spacing="0.6">Todos 7</text>
+<rect x="199" y="428" width="57" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="210" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Web 4</text>
+<rect x="264" y="428" width="78" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="275" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Python 4</text>
+<rect x="350" y="428" width="85" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="361" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">IA &amp; ML 4</text>
+<rect x="443" y="428" width="64" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="454" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Java 2</text>
+<rect x="515" y="428" width="64" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="526" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">APIs 2</text>
+<rect x="587" y="428" width="99" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="598" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Automação 1</text>
+<rect x="694" y="428" width="169" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="705" y="446" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Visão computacional 1</text>
+<text x="120" y="482" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">$ git log --reverse · 7 projetos</text>
+<circle cx="1160" cy="442" r="11" fill="#2f6fed"/>
+<text x="1160" y="446" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">1</text>
+<rect x="908" y="472" width="256" height="57" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="916" y="490" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Filtros por tecnologia: a timeline se</text>
+<text x="916" y="505" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">reorganiza com animação (timeline</text>
+<text x="916" y="520" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">dinâmica).</text>
+<line x1="132" y1="548" x2="132" y2="2168" stroke="#c4c4c4" stroke-width="2"/>
+<line x1="132" y1="548" x2="132" y2="1168" stroke="#7a9a10" stroke-width="3"/>
+<circle cx="132" cy="908" r="11" fill="#2f6fed"/>
+<text x="132" y="912" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">2</text>
+<rect x="150" y="898" width="186" height="42" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="158" y="916" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">O trilho acende conforme a</text>
+<text x="158" y="931" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">rolagem.</text>
+<circle cx="132" cy="554" r="8" fill="#ffffff" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="170" y="558" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b07a00" text-anchor="start" letter-spacing="0.6">1B2FCD5   12 MAR 2026</text>
+<rect x="350" y="543" width="119" height="22" rx="0" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="357" y="558" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">PRIMEIRO COMMIT</text>
+<text x="620" y="558" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">01/07</text>
+<text x="170" y="612" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">AUTOMAÇÃO DE CADASTRO</text>
+<rect x="170" y="638" width="450" height="10" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="170" y="658" width="270" height="10" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="186" y="698" width="430" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="186" y="714" width="430" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="186" y="730" width="258" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<text x="170" y="778" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">STACK</text>
+<rect x="170" y="790" width="64" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="181" y="808" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Python</text>
+<rect x="240" y="790" width="85" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="251" y="808" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">PyAutoGUI</text>
+<rect x="331" y="790" width="64" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="342" y="808" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Pandas</text>
+<rect x="401" y="790" width="43" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="412" y="808" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">CSV</text>
+<rect x="170" y="844" width="150" height="44" rx="2" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="245" y="870" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">⌥ REPOSITÓRIO</text>
+<text x="336" y="871" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">Python  ☆ 1  push há 7 meses</text>
+<rect x="670" y="548" width="530" height="330" rx="0" fill="#ececec" stroke="#c4c4c4" stroke-width="1"/>
+<path d="M670 548 L1200 878 M1200 548 L670 878" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="880.8" y="701" width="108.39999999999999" height="24" rx="3" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="935" y="717" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">prévia animada</text>
+<path d="M670 562V548H684 M1186 548H1200V562 M1200 864V878H1186 M684 878H670V864" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<rect x="670" y="530" width="84.6" height="18" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<text x="676" y="543" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="start" letter-spacing="0.6">preview 1/1</text>
+<circle cx="1190" cy="558" r="11" fill="#2f6fed"/>
+<text x="1190" y="562" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">3</text>
+<rect x="938" y="888" width="266" height="57" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="946" y="906" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Imagem/GIF do projeto rodando; clique</text>
+<text x="946" y="921" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">amplia (dialog). Galeria quando há mais</text>
+<text x="946" y="936" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">de uma.</text>
+<circle cx="460" cy="868" r="11" fill="#2f6fed"/>
+<text x="460" y="872" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="0">4</text>
+<rect x="468" y="888" width="196" height="42" rx="4" fill="#eaf1ff" stroke="#2f6fed" stroke-width="1"/>
+<text x="476" y="906" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">Estatísticas ao vivo da API</text>
+<text x="476" y="921" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#2f6fed" text-anchor="start" letter-spacing="0">do GitHub.</text>
+<circle cx="132" cy="1074" r="8" fill="#ffffff" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="170" y="1078" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b07a00" text-anchor="start" letter-spacing="0.6">6F24B37   13 MAR 2026</text>
+<text x="620" y="1078" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">02/07</text>
+<text x="170" y="1132" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">PREVISÃO DE SCORE DE CRÉDITO</text>
+<rect x="170" y="1158" width="450" height="10" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="170" y="1178" width="270" height="10" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="186" y="1218" width="430" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="186" y="1234" width="430" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="186" y="1250" width="258" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<text x="170" y="1298" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">STACK</text>
+<rect x="170" y="1310" width="64" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="181" y="1328" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Python</text>
+<rect x="240" y="1310" width="85" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="251" y="1328" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">PyAutoGUI</text>
+<rect x="331" y="1310" width="64" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="342" y="1328" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Pandas</text>
+<rect x="401" y="1310" width="43" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="412" y="1328" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">CSV</text>
+<rect x="170" y="1364" width="150" height="44" rx="2" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="245" y="1390" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">⌥ REPOSITÓRIO</text>
+<text x="336" y="1391" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">Python  ☆ 1  push há 7 meses</text>
+<rect x="670" y="1068" width="530" height="330" rx="0" fill="#ececec" stroke="#c4c4c4" stroke-width="1"/>
+<path d="M670 1068 L1200 1398 M1200 1068 L670 1398" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="880.8" y="1221" width="108.39999999999999" height="24" rx="3" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="935" y="1237" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">prévia animada</text>
+<path d="M670 1082V1068H684 M1186 1068H1200V1082 M1200 1384V1398H1186 M684 1398H670V1384" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<rect x="670" y="1050" width="84.6" height="18" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<text x="676" y="1063" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="start" letter-spacing="0.6">preview 1/1</text>
+<text x="180" y="1628" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">⋮   mais projetos na mesma estrutura</text>
+<circle cx="132" cy="1754" r="8" fill="#7a9a10" stroke="#7a9a10" stroke-width="2.5"/>
+<text x="170" y="1758" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#b07a00" text-anchor="start" letter-spacing="0.6">9C701F2   12 OUT 2026</text>
+<rect x="350" y="1743" width="210" height="22" rx="0" fill="#ffffff" stroke="#7a9a10" stroke-width="1"/>
+<text x="357" y="1758" font-family="Consolas, 'Courier New', monospace" font-size="9.5" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">HEAD → MAIN · VOCÊ ESTÁ AQUI</text>
+<text x="620" y="1758" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="end" letter-spacing="0.6">07/07</text>
+<text x="170" y="1812" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900" fill="#2b2b2b" text-anchor="start" letter-spacing="0">ESTE PORTFÓLIO</text>
+<rect x="170" y="1838" width="450" height="10" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="170" y="1858" width="270" height="10" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="186" y="1898" width="430" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="186" y="1914" width="430" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<rect x="186" y="1930" width="258" height="7" rx="3" fill="#dedede" stroke="none" stroke-width="1"/>
+<text x="170" y="1978" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">STACK</text>
+<rect x="170" y="1990" width="64" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="181" y="2008" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Python</text>
+<rect x="240" y="1990" width="85" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="251" y="2008" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">PyAutoGUI</text>
+<rect x="331" y="1990" width="64" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="342" y="2008" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">Pandas</text>
+<rect x="401" y="1990" width="43" height="28" rx="2" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="412" y="2008" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="start" letter-spacing="0.6">CSV</text>
+<rect x="170" y="2044" width="150" height="44" rx="2" fill="#ffffff" stroke="#3a3a3a" stroke-width="1"/>
+<text x="245" y="2070" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">⌥ REPOSITÓRIO</text>
+<text x="336" y="2071" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#6b6b6b" text-anchor="start" letter-spacing="0.6">Python  ☆ 1  push há 7 meses</text>
+<rect x="670" y="1748" width="530" height="330" rx="0" fill="#ececec" stroke="#c4c4c4" stroke-width="1"/>
+<path d="M670 1748 L1200 2078 M1200 1748 L670 2078" stroke="#c4c4c4" stroke-width="1"/>
+<rect x="903.9" y="1901" width="62.199999999999996" height="24" rx="3" fill="#ffffff" stroke="#c4c4c4" stroke-width="1"/>
+<text x="935" y="1917" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400" fill="#2b2b2b" text-anchor="middle" letter-spacing="0.6">captura</text>
+<path d="M670 1762V1748H684 M1186 1748H1200V1762 M1200 2064V2078H1186 M684 2078H670V2064" fill="none" stroke="#7a9a10" stroke-width="2.5"/>
+<rect x="670" y="1730" width="84.6" height="18" rx="0" fill="#7a9a10" stroke="none" stroke-width="1"/>
+<text x="676" y="1743" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" fill="#fff" text-anchor="start" letter-spacing="0.6">preview 1/1</text>
+</svg>

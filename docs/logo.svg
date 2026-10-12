@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <rect width="240" height="240" rx="28" fill="#0a0c0b"/>
+  <g fill="none" stroke="#c8ff3d" stroke-width="10" stroke-linecap="square">
+    <path d="M36 80V36h44M160 36h44v44M204 160v44h-44M80 204H36v-44"/>
+  </g>
+  <rect x="36" y="18" width="118" height="22" fill="#c8ff3d"/>
+  <text x="44" y="34" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#0a0c0b">person 0.99</text>
+  <text x="120" y="146" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="78" fill="#e9ede7" letter-spacing="-3">LN</text>
+  <text x="196" y="196" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#c8ff3d">#001</text>
+</svg>
