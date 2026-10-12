@@ -1,0 +1,37 @@
+.stage {
+  position: relative;
+  min-height: calc(100dvh - var(--header-h));
+}
+
+.main {
+  outline: none;
+  padding-top: var(--header-h);
+}
+
+/* Linha de varredura que cruza a tela na troca de "canal" */
+.scan {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 60;
+  height: 2px;
+  pointer-events: none;
+  background: var(--accent);
+  box-shadow:
+    0 0 12px var(--accent),
+    0 0 48px rgba(200, 255, 61, 0.5);
+  opacity: 0;
+  animation: scan 0.6s var(--ease-out) 1;
+}
+
+@keyframes scan {
+  0% {
+    transform: translateY(var(--header-h));
+    opacity: 0.9;
+  }
+  100% {
+    transform: translateY(100dvh);
+    opacity: 0;
+  }
+}

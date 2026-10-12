@@ -1,0 +1,92 @@
+.box {
+  --c: var(--accent);
+  --len: 14px;
+  --w: 2px;
+  position: relative;
+}
+
+.amber {
+  --c: var(--amber);
+}
+
+.muted {
+  --c: var(--line-2);
+}
+
+.corners {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(var(--c), var(--c)) top left / var(--len) var(--w),
+    linear-gradient(var(--c), var(--c)) top left / var(--w) var(--len),
+    linear-gradient(var(--c), var(--c)) top right / var(--len) var(--w),
+    linear-gradient(var(--c), var(--c)) top right / var(--w) var(--len),
+    linear-gradient(var(--c), var(--c)) bottom left / var(--len) var(--w),
+    linear-gradient(var(--c), var(--c)) bottom left / var(--w) var(--len),
+    linear-gradient(var(--c), var(--c)) bottom right / var(--len) var(--w),
+    linear-gradient(var(--c), var(--c)) bottom right / var(--w) var(--len);
+  background-repeat: no-repeat;
+  transition:
+    opacity 0.25s,
+    inset 0.35s var(--ease-out);
+}
+
+.label {
+  position: absolute;
+  left: 0;
+  bottom: 100%;
+  padding: 2px 6px;
+  background: var(--c);
+  color: var(--accent-ink);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1.35;
+  white-space: nowrap;
+  pointer-events: none;
+  transition: opacity 0.25s;
+}
+
+.track {
+  position: absolute;
+  right: 6px;
+  bottom: 4px;
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--c);
+  opacity: 0.8;
+  pointer-events: none;
+}
+
+/* Cantos aparecem ao passar o mouse/focar — usado em cards */
+.hoverOnly .corners {
+  opacity: 0;
+  inset: 8px;
+}
+
+.hoverOnly .label,
+.hoverOnly .track {
+  opacity: 0;
+}
+
+.hoverOnly:hover .corners,
+.hoverOnly:focus-within .corners {
+  opacity: 1;
+  inset: 0;
+}
+
+.hoverOnly:hover .label,
+.hoverOnly:focus-within .label,
+.hoverOnly:hover .track,
+.hoverOnly:focus-within .track {
+  opacity: 1;
+}
+
+@media (hover: none) {
+  .hoverOnly .corners {
+    opacity: 0.6;
+    inset: 0;
+  }
+}

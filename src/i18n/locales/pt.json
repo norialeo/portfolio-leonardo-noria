@@ -1,0 +1,196 @@
+{
+  "a11y": {
+    "skip": "Pular para o conteúdo"
+  },
+  "nav": {
+    "label": "Navegação principal",
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "experience": "Experiências",
+    "contact": "Contato",
+    "menu": "Abrir menu",
+    "close": "Fechar menu"
+  },
+  "lang": {
+    "label": "Idioma",
+    "pt": "Português",
+    "en": "Inglês"
+  },
+  "common": {
+    "connecting": "conectando…",
+    "live": "ao vivo",
+    "offline": "offline",
+    "present": "atual",
+    "copy": "Copiar",
+    "copied": "Copiado",
+    "close": "Fechar"
+  },
+  "hero": {
+    "roleShort": "Full Stack & Mobile",
+    "kicker": "desenvolvedor full stack & mobile · belo horizonte, br",
+    "pitch": "Desenvolvo de ponta a ponta — do banco de dados ao app: APIs e microsserviços em Go e Python, apps mobile em Flutter e interfaces web, com visão computacional quando o produto pede. Hoje em dois produtos em produção.",
+    "ctaProjects": "Ver projetos",
+    "ctaTerminal": "Abrir terminal",
+    "hint": "mova o cursor — você também está sendo detectado.",
+    "visitor": "visitante",
+    "lost": "track perdido"
+  },
+  "home": {
+    "runningTitle": "Onde trabalho hoje",
+    "since": "desde",
+    "metrics": {
+      "label": "Números",
+      "companies": "empresas onde trabalho hoje",
+      "fronts": "frentes que entrego: back-end, web e mobile",
+      "projects": "projetos na linha do tempo",
+      "repos": "repositórios públicos no GitHub"
+    },
+    "channelsTitle": "Canais",
+    "channelsAside": "canais ao vivo",
+    "open": "abrir canal",
+    "channels": {
+      "about": "Quem sou, formação, interesses e objetivos — em português e inglês. Com a stack em 3D e meu GitHub ao vivo.",
+      "projects": "Linha do tempo dos meus projetos, do primeiro ao mais recente, com prévias, stack e repositório.",
+      "experience": "LITS e Exxata: o que construí no app, na web e na API — e o que consertei em produção.",
+      "contact": "E-mail, WhatsApp, LinkedIn e um formulário que manda a mensagem direto pra minha caixa de entrada."
+    },
+    "activityTitle": "Atividade no GitHub",
+    "activityLog": "Atividade pública recente no GitHub",
+    "activityStats": "Estatísticas do GitHub",
+    "activityError": "não deu pra falar com o GitHub agora. Tente recarregar daqui a pouco.",
+    "activityEmpty": "nenhuma atividade pública recente."
+  },
+  "github": {
+    "repos": "repositórios",
+    "followers": "seguidores",
+    "languages": "linguagens por volume de código",
+    "stars": "estrelas",
+    "updated": "push {{when}}"
+  },
+  "terminal": {
+    "open": "Abrir terminal",
+    "hintMobile": "Dica: o botão >_ abre um terminal. Digite help.",
+    "title": "noria@portfolio — terminal",
+    "label": "Terminal interativo",
+    "placeholder": "digite um comando ou pergunte algo…",
+    "close": "Fechar terminal"
+  },
+  "footer": {
+    "ctaLabel": "// vamos conversar",
+    "ctaTitle": "Tem um projeto em mente?",
+    "ctaButton": "Falar comigo",
+    "tagline": "Desenvolvedor full stack e mobile em Belo Horizonte. Flutter, Go, Python, React/Vue e visão computacional — do banco de dados ao app.",
+    "navLabel": "Navegação do rodapé",
+    "pages": "Páginas",
+    "elsewhere": "Em outros lugares",
+    "online": "Sistemas operacionais",
+    "top": "Topo",
+    "source": "código-fonte no GitHub"
+  },
+  "about": {
+    "label": "SOBRE MIM",
+    "title": "Sobre mim",
+    "readIn": "Ler em",
+    "photoAlt": "Leonardo Noria tirando uma selfie no espelho, de moletom branco",
+    "factsTitle": "Ficha técnica",
+    "skillsTitle": "Stack",
+    "skillsHint": "arraste para girar",
+    "skillsCanvas": "Nuvem 3D de tecnologias girando; a lista completa está ao lado.",
+    "githubTitle": "GitHub ao vivo",
+    "githubError": "GitHub indisponível agora.",
+    "member": "no GitHub desde",
+    "languagesTitle": "Idiomas",
+    "cvTitle": "Currículo",
+    "cvText": "Versão completa do meu currículo, para baixar ou imprimir.",
+    "cvPt": "Currículo (PT)",
+    "cvEn": "Résumé (EN)",
+    "quick": {
+      "base": "base",
+      "focus": "foco",
+      "status": "status",
+      "open": "aberto a vagas e projetos"
+    }
+  },
+  "projects": {
+    "label": "PROJETOS",
+    "title": "Projetos",
+    "lead": "Do primeiro script de automação até este site: a linha do tempo dos meus projetos públicos, do mais antigo ao mais recente.",
+    "filterLabel": "Filtrar por tecnologia",
+    "all": "Todos",
+    "count_one": "{{count}} projeto",
+    "count_other": "{{count}} projetos",
+    "repo": "Repositório",
+    "capture": "captura",
+    "preview": "prévia",
+    "previewNote": "Prévia animada reconstruída a partir do código do repositório.",
+    "enlarge": "Ampliar",
+    "prev": "Anterior",
+    "next": "Próxima",
+    "empty": "Nenhum projeto com esse filtro.",
+    "init": "primeiro commit",
+    "head": "você está aqui",
+    "details": "Detalhes",
+    "stack": "Stack",
+    "media": "Mídia"
+  },
+  "experience": {
+    "label": "EXPERIÊNCIAS",
+    "title": "Experiências",
+    "lead": "Dois produtos em produção ao mesmo tempo: app mobile em Flutter com microsserviços em Go na LITS, e plataforma web com APIs em Python e visão computacional na Exxata.",
+    "present": "atual",
+    "product": "Produto",
+    "impact": "Log de impacto",
+    "stack": "Stack",
+    "legend": "Legenda",
+    "education": "Formação",
+    "tags": {
+      "FIX": "bug evitado/corrigido",
+      "SEC": "segurança",
+      "FEAT": "funcionalidade",
+      "OPS": "operação/infra",
+      "DATA": "dados",
+      "QA": "qualidade/testes",
+      "A11Y": "acessibilidade",
+      "AI": "IA/visão",
+      "API": "APIs/integração"
+    },
+    "noResults": "0 resultados"
+  },
+  "contact": {
+    "label": "CONTATO",
+    "title": "Contato",
+    "lead": "Vaga, freela, projeto ou só uma conversa — escolha o canal. Respondo rápido.",
+    "channelsTitle": "Canais diretos",
+    "formTitle": "Mandar mensagem",
+    "formHint": "Vai direto pro meu e-mail.",
+    "name": "Nome",
+    "namePh": "Como você se chama?",
+    "email": "E-mail",
+    "emailPh": "voce@empresa.com",
+    "message": "Mensagem",
+    "messagePh": "Conte o que você tem em mente…",
+    "send": "Enviar mensagem",
+    "sending": "Enviando…",
+    "sendAnother": "Enviar outra",
+    "success": "Mensagem entregue! Respondo no seu e-mail em breve.",
+    "fail": "Não consegui enviar agora.",
+    "notConfigured": "O envio automático está desligado neste ambiente.",
+    "openMail": "Abrir no meu app de e-mail",
+    "rateLimited": "Muitas mensagens seguidas. Tente de novo em {{seconds}}s.",
+    "location": "Belo Horizonte, MG · Brasil · UTC−3",
+    "errors": {
+      "name_min": "Escreva pelo menos 2 caracteres.",
+      "name_max": "Nome longo demais (máx. 80).",
+      "email_required": "Informe seu e-mail.",
+      "email_invalid": "Esse e-mail não parece válido.",
+      "message_min": "Escreva pelo menos 10 caracteres.",
+      "message_max": "Mensagem longa demais (máx. 2000)."
+    }
+  },
+  "notFound": {
+    "title": "Sinal perdido",
+    "text": "O canal {{path}} não existe ou saiu do ar.",
+    "back": "Voltar para o início"
+  }
+}

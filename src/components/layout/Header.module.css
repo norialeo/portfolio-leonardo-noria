@@ -1,0 +1,258 @@
+.header {
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: 50;
+  height: var(--header-h);
+  border-bottom: 1px solid transparent;
+  transition:
+    background 0.3s,
+    border-color 0.3s;
+}
+
+.scrolled {
+  background: rgba(10, 12, 11, 0.82);
+  border-bottom-color: var(--line);
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+}
+
+.bar {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+/* ---------- marca ---------- */
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  margin-right: auto;
+  min-width: 0;
+}
+
+.mark {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  font-family: var(--font-display);
+  font-stretch: 125%;
+  font-weight: 800;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  color: var(--accent);
+  background:
+    linear-gradient(var(--accent), var(--accent)) top left / 9px 2px,
+    linear-gradient(var(--accent), var(--accent)) top left / 2px 9px,
+    linear-gradient(var(--accent), var(--accent)) top right / 9px 2px,
+    linear-gradient(var(--accent), var(--accent)) top right / 2px 9px,
+    linear-gradient(var(--accent), var(--accent)) bottom left / 9px 2px,
+    linear-gradient(var(--accent), var(--accent)) bottom left / 2px 9px,
+    linear-gradient(var(--accent), var(--accent)) bottom right / 9px 2px,
+    linear-gradient(var(--accent), var(--accent)) bottom right / 2px 9px;
+  background-repeat: no-repeat;
+  transition: transform 0.3s var(--ease-out);
+}
+
+.brand:hover .mark {
+  transform: scale(1.08);
+}
+
+.brandText {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+  min-width: 0;
+}
+
+.brandName {
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+}
+
+.brandRole {
+  font-size: 10px;
+  color: var(--fg-3);
+  white-space: nowrap;
+}
+
+/* ---------- navegação ---------- */
+
+.nav ul {
+  display: flex;
+  gap: 4px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.link {
+  position: relative;
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 8px 12px;
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--fg-2);
+  transition: color 0.2s;
+}
+
+.link:hover {
+  color: var(--fg);
+}
+
+.ch {
+  font-size: 10px;
+  color: var(--fg-3);
+}
+
+.active {
+  color: var(--fg);
+}
+
+.active .ch {
+  color: var(--accent);
+}
+
+.link.active::after {
+  content: "";
+  position: absolute;
+  left: 12px;
+  right: 12px;
+  bottom: 2px;
+  height: 2px;
+  background: var(--accent);
+}
+
+/* ---------- ações ---------- */
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.termBtn,
+.menuBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 36px;
+  padding: 0 10px;
+  border: 1px solid var(--line-2);
+  border-radius: var(--radius);
+  background: var(--bg-2);
+  color: var(--fg);
+  transition: border-color 0.2s;
+}
+
+.termBtn:hover,
+.menuBtn:hover {
+  border-color: var(--accent);
+}
+
+.termBtn svg,
+.menuBtn svg {
+  width: 16px;
+  height: 16px;
+}
+
+.kbd {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  min-width: 0;
+}
+
+.menuBtn {
+  display: none;
+  width: 44px;
+  height: 44px;
+  justify-content: center;
+}
+
+/* ---------- menu mobile ---------- */
+
+.mobile {
+  position: fixed;
+  inset: var(--header-h) 0 0;
+  background: var(--bg);
+  border-top: 1px solid var(--line);
+  padding-top: 24px;
+  overflow-y: auto;
+}
+
+.mobile ul {
+  margin: 0;
+  list-style: none;
+}
+
+.mLink {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: var(--font-display);
+  font-stretch: 125%;
+  font-weight: 800;
+  font-size: clamp(28px, 8vw, 44px);
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 1;
+  color: var(--fg-2);
+}
+
+.mLink .ch {
+  font-family: var(--font-mono);
+  font-weight: 400;
+  font-stretch: 100%;
+  font-size: 12px;
+}
+
+.mLink.active {
+  color: var(--fg);
+}
+
+.mobileHint {
+  margin-top: 24px;
+  color: var(--fg-3);
+}
+
+@media (max-width: 1020px) {
+  .nav {
+    display: none;
+  }
+  .menuBtn {
+    display: inline-flex;
+  }
+  .kbd {
+    display: none;
+  }
+  .termBtn {
+    width: 44px;
+    height: 44px;
+    justify-content: center;
+    padding: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .brandText {
+    display: none;
+  }
+  .bar {
+    gap: 12px;
+  }
+}
