@@ -33,9 +33,10 @@ export function Layout() {
             id="conteudo"
             tabIndex={-1}
             className={styles.main}
-            initial={reduce ? { opacity: 0 } : { opacity: 0, y: 14, filter: "blur(4px)" }}
-            animate={reduce ? { opacity: 1 } : { opacity: 1, y: 0, filter: "blur(0px)" }}
-            exit={reduce ? { opacity: 0 } : { opacity: 0, y: -10, filter: "blur(4px)" }}
+            // só opacidade e deslocamento: animar blur na página inteira derrubava os quadros
+            initial={reduce ? { opacity: 0 } : { opacity: 0, y: 14 }}
+            animate={reduce ? { opacity: 1 } : { opacity: 1, y: 0 }}
+            exit={reduce ? { opacity: 0 } : { opacity: 0, y: -10 }}
             transition={{ duration: 0.32, ease: [0.16, 1, 0.3, 1] }}
             // Depois da troca de página, leva o foco (e o leitor de tela) para o conteúdo novo
             onAnimationComplete={() => document.getElementById("conteudo")?.focus({ preventScroll: true })}

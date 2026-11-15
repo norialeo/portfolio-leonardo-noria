@@ -9,11 +9,11 @@
     border-color 0.3s;
 }
 
+/* Fundo quase opaco em vez de vidro fosco: o backdrop-filter recalculava o
+   desfoque de tudo que passava por baixo a cada quadro de rolagem. */
 .scrolled {
-  background: rgba(10, 12, 11, 0.82);
+  background: rgba(10, 12, 11, 0.95);
   border-bottom-color: var(--line);
-  backdrop-filter: blur(14px) saturate(140%);
-  -webkit-backdrop-filter: blur(14px) saturate(140%);
 }
 
 .bar {

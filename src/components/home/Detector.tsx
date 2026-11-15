@@ -115,7 +115,8 @@ export function Detector({ labels, visitorLabel, lostLabel, onStats, reducedMoti
 
     const resize = () => {
       const rect = canvas.getBoundingClientRect();
-      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+      // 1.5x já deixa as linhas nítidas; 2x quadruplica os pixels redesenhados por quadro
+      const dpr = Math.min(window.devicePixelRatio || 1, 1.5);
       const prevW = width;
       const prevH = height;
       width = Math.max(1, rect.width);
@@ -245,9 +246,22 @@ export function Detector({ labels, visitorLabel, lostLabel, onStats, reducedMoti
       ctx.stroke();
     };
 
+    // largura dos textos guardada: medir texto em todo quadro custa caro
+    const widths = new Map<string, number>();
+    const textWidth = (text: string) => {
+      let w = widths.get(text);
+      if (w === undefined) {
+        ctx.font = FONT;
+        w = ctx.measureText(text).width;
+        if (widths.size > 500) widths.clear();
+        widths.set(text, w);
+      }
+      return w;
+    };
+
     const tag = (text: string, x: number, y: number, color: string, alpha: number) => {
       ctx.font = FONT;
-      const w = ctx.measureText(text).width + 10;
+      const w = textWidth(text) + 10;
       const top = y - 17 < 0 ? y + 1 : y - 17;
       ctx.fillStyle = `rgba(${color}, ${0.92 * alpha})`;
       ctx.fillRect(x - 1, top, w, 17);
@@ -260,16 +274,19 @@ export function Detector({ labels, visitorLabel, lostLabel, onStats, reducedMoti
       ctx.lineCap = "square";
       ctx.textBaseline = "alphabetic";
 
-      for (const k of keypoints) {
-        const p = k.life / k.ttl;
-        const a = Math.sin(p * Math.PI) * 0.35;
-        ctx.strokeStyle = `rgba(${BONE}, ${a})`;
-        ctx.lineWidth = 1;
+      // keypoints agrupados em 3 níveis de opacidade: 3 traços por quadro em vez de um por ponto
+      ctx.lineWidth = 1;
+      for (let level = 1; level <= 3; level++) {
         ctx.beginPath();
-        ctx.moveTo(k.x - 3, k.y);
-        ctx.lineTo(k.x + 3, k.y);
-        ctx.moveTo(k.x, k.y - 3);
-        ctx.lineTo(k.x, k.y + 3);
+        for (const k of keypoints) {
+          const bucket = Math.ceil(Math.sin((k.life / k.ttl) * Math.PI) * 3);
+          if (bucket !== level) continue;
+          ctx.moveTo(k.x - 3, k.y);
+          ctx.lineTo(k.x + 3, k.y);
+          ctx.moveTo(k.x, k.y - 3);
+          ctx.lineTo(k.x, k.y + 3);
+        }
+        ctx.strokeStyle = `rgba(${BONE}, ${(level / 3) * 0.35})`;
         ctx.stroke();
       }
 
@@ -293,15 +310,18 @@ export function Detector({ labels, visitorLabel, lostLabel, onStats, reducedMoti
         const bh = h + t.jitter[3] - t.jitter[1];
 
         // rastro
+        // rastro em 3 trechos (mais fraco no começo, mais forte perto do objeto)
         if (t.trail.length > 1) {
           ctx.lineWidth = 1;
-          for (let i = 1; i < t.trail.length; i++) {
-            const a = t.trail[i - 1]!;
-            const b = t.trail[i]!;
-            ctx.strokeStyle = `rgba(${color}, ${(i / t.trail.length) * 0.35 * alpha})`;
+          const n = t.trail.length;
+          for (let part = 0; part < 3; part++) {
+            const from = Math.floor((part * (n - 1)) / 3);
+            const to = Math.floor(((part + 1) * (n - 1)) / 3);
+            if (to <= from) continue;
             ctx.beginPath();
-            ctx.moveTo(a.x, a.y);
-            ctx.lineTo(b.x, b.y);
+            ctx.moveTo(t.trail[from]!.x, t.trail[from]!.y);
+            for (let i = from + 1; i <= to; i++) ctx.lineTo(t.trail[i]!.x, t.trail[i]!.y);
+            ctx.strokeStyle = `rgba(${color}, ${((part + 1) / 3) * 0.35 * alpha})`;
             ctx.stroke();
           }
         }
@@ -320,7 +340,7 @@ export function Detector({ labels, visitorLabel, lostLabel, onStats, reducedMoti
         ctx.font = FONT;
         ctx.fillStyle = `rgba(${color}, ${0.7 * alpha})`;
         const idText = `#${String(t.id).padStart(3, "0")}`;
-        ctx.fillText(idText, x + bw - ctx.measureText(idText).width - 4, y + bh - 6);
+        ctx.fillText(idText, x + bw - textWidth(idText) - 4, y + bh - 6);
 
         if (pointer.active && t.lostAt === null) {
           const dist = Math.hypot(t.x - pointer.sx, t.y - pointer.sy);
